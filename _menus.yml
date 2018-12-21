@@ -37,3 +37,4 @@ main:
       es: g-ES
     target: _NEW
     items: 
+    page_id: _pages/about.html

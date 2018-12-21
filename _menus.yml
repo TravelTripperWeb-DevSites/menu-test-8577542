@@ -27,10 +27,10 @@ main:
       es: Group (ES)
     folder: true
     items:
-    - page_id: _pages/about.html
-      items: 
     - url: "/test/"
       label_localized:
         en: Test
         es: Prueba
       items: 
+  - page_id: _pages/about.html
+    items: 

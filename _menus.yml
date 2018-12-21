@@ -9,31 +9,13 @@ main:
   - url: https://www.google.com
     label: google
     items: 
-  - label_localized:
-      en: Group
-      es: Group (ES)
-    folder: true
-    items:
-    - label_localized:
-        en: Test!!!
-        es: Prueba
-      items: 
-      url_localized:
-        en: "/test/"
-    - page_id: _pages/about.html
-      items: 
-  - page_id: _pages/about.html
+  - page_id: _pages/rooms.html
     label_localized:
-      en: Rooms!
+      en: Rooms
       es: Habitaciones
     items: 
   - page_id: _pages/about.html
     items: 
-    label_localized:
-      en: Test!!!
-      es: Prueba
-    url_localized:
-      en: "/test/"
   - url_localized:
       en: https://www.google.com
       es: https://www.google.es
@@ -42,4 +24,15 @@ main:
       es: g-ES
     target: _NEW
     items: 
-    page_id: _pages/about.html
+  - label_localized:
+      en: Group
+      es: Group (ES)
+    folder: true
+    items:
+    - url: "/test/"
+      label_localized:
+        en: Test
+        es: Prueba
+      items: 
+    - page_id: _pages/about.html
+      items: 

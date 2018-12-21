@@ -2,8 +2,10 @@
 main:
   items:
   - page_id: index.html
-    label_localized: Home
+    label_localized:
+      en: Home
     items: 
+    url_localized: ''
   - url: https://www.google.com
     label: google
     items: 

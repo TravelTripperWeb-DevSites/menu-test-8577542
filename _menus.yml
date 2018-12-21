@@ -29,10 +29,11 @@ main:
       es: Group (ES)
     folder: true
     items:
-    - url: "/test/"
-      label_localized:
-        en: Test
+    - label_localized:
+        en: Test!
         es: Prueba
       items: 
+      url_localized:
+        en: "/test/"
     - page_id: _pages/about.html
       items: 

@@ -6,9 +6,11 @@ main:
   - page_id: index.html
     label_localized: Home
     items: 
-  - url: https://www.google.com
-    label: google
-    items: 
+  - items: 
+    label_localized:
+      en: google!
+    url_localized:
+      en: https://www.google.com
   - page_id: _pages/rooms.html
     label_localized:
       en: Rooms

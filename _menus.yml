@@ -26,11 +26,11 @@ main:
       en: Group
       es: Group (ES)
     folder: true
-    items:
-    - url: "/test/"
-      label_localized:
-        en: Test
-        es: Prueba
-      items: 
+    items: 
+  - url: "/test/"
+    label_localized:
+      en: Test
+      es: Prueba
+    items: 
   - page_id: _pages/about.html
     items: 

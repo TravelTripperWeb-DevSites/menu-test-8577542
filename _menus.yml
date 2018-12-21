@@ -4,7 +4,7 @@ main:
   depth: 2
   items:
   - page_id: index.html
-    label_localized: Home
+    label: Home
     items: 
   - url: https://www.google.com
     label: google

@@ -18,14 +18,6 @@ main:
     url_localized: ''
     label_localized:
       en: About Page
-  - url_localized:
-      en: https://www.google.com
-      es: https://www.google.es
-    label_localized:
-      en: Google.com
-      es: Google.es
-    target: _NEW
-    items: 
   - folder: false
     url_localized: ''
     page_id: _pages/contact.html
@@ -43,6 +35,14 @@ main:
       page_id: _pages/terms.html
       items: 
     expanded: true
+  - url_localized:
+      en: https://www.google.com
+      es: https://www.google.es
+    label_localized:
+      en: Google.com
+      es: Google.es
+    target: _NEW
+    items: 
   - label_localized:
       en: Group
       es: Group (ES)

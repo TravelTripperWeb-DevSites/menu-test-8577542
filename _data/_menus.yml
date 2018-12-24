@@ -47,3 +47,8 @@ main:
         en: Test
         es: Prueba
       items: 
+  - folder: false
+    url_localized:
+      en: "/abcdef/"
+    label_localized:
+      en: Some other contact page

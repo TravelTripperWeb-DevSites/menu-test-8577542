@@ -55,9 +55,4 @@ main:
     items:
     - page_id: _pages/about.html
       items: 
-    - url: "/test/"
-      label_localized:
-        en: Test
-        es: Prueba
-      items: 
     expanded: true

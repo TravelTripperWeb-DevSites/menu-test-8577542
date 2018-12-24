@@ -1,6 +1,5 @@
 ---
 main:
-  depth: 2
   items:
   - page_id: index.html
     label_localized:

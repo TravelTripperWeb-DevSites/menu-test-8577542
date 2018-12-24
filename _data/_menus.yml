@@ -37,14 +37,14 @@ main:
       en: ''
     items:
     - folder: false
-      url_localized: ''
-      page_id: _pages/terms.html
-      items: 
-    - folder: false
       url_localized:
         en: "/abcdef/"
       label_localized:
         en: Some other contact page
+      items: 
+    - folder: false
+      url_localized: ''
+      page_id: _pages/terms.html
       items: 
   - label_localized:
       en: Group

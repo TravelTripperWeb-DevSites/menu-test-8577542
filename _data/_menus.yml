@@ -3,7 +3,7 @@ main:
   items:
   - page_id: index.html
     label_localized:
-      en: Home
+      en: ''
     items: 
     url_localized: ''
   - items: 

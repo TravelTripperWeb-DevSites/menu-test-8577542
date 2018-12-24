@@ -42,11 +42,7 @@ main:
       label_localized:
         en: Some other contact page
       items: 
-    - folder: false
-      url_localized: ''
-      page_id: _pages/terms.html
-      items: 
-    expanded: false
+    expanded: true
   - label_localized:
       en: Group
       es: Group (ES)

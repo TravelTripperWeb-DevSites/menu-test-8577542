@@ -25,8 +25,8 @@ main:
       en: https://www.google.com
       es: https://www.google.es
     label_localized:
-      en: g-US
-      es: g-ES
+      en: Google.com
+      es: Google.es
     target: _NEW
     items: 
   - label_localized:

@@ -43,6 +43,10 @@ main:
       label_localized:
         en: Some other contact page
       items: 
+    - folder: false
+      url_localized: ''
+      page_id: _pages/terms.html
+      items: 
     expanded: true
   - label_localized:
       en: Group
@@ -57,6 +61,3 @@ main:
         es: Prueba
       items: 
     expanded: true
-  - folder: false
-    url_localized: ''
-    page_id: _pages/terms.html

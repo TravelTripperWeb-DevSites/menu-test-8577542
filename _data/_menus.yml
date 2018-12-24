@@ -29,6 +29,12 @@ main:
       es: Google.es
     target: _NEW
     items: 
+  - folder: false
+    url_localized: ''
+    page_id: _pages/contact.html
+    label_localized:
+      en: ''
+    items: 
   - label_localized:
       en: Group
       es: Group (ES)
@@ -41,8 +47,3 @@ main:
         en: Test
         es: Prueba
       items: 
-  - folder: false
-    url_localized: ''
-    page_id: _pages/contact.html
-    label_localized:
-      en: ''

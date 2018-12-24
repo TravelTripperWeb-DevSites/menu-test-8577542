@@ -8,11 +8,6 @@ main:
       en: Home
     items: 
     url_localized: ''
-  - items: 
-    label_localized:
-      en: Google
-    url_localized:
-      en: https://www.google.com
   - page_id: _pages/rooms.html
     label_localized:
       en: Rooms

@@ -57,3 +57,6 @@ main:
         es: Prueba
       items: 
     expanded: true
+  - folder: false
+    url_localized: ''
+    page_id: _pages/terms.html

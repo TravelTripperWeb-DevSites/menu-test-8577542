@@ -30,6 +30,12 @@ main:
     target: _NEW
     items: 
   - folder: false
+    url_localized:
+      en: "/abcdef/"
+    label_localized:
+      en: Some other contact page
+    items: 
+  - folder: false
     url_localized: ''
     page_id: _pages/contact.html
     label_localized:
@@ -47,8 +53,3 @@ main:
         en: Test
         es: Prueba
       items: 
-  - folder: false
-    url_localized:
-      en: "/abcdef/"
-    label_localized:
-      en: Some other contact page

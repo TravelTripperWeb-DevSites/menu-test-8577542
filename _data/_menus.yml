@@ -16,9 +16,11 @@ main:
       en: Rooms
       es: Habitaciones
     items: 
-  - page_id: _pages/contact.html
+  - page_id: _pages/about.html
     items: 
     url_localized: ''
+    label_localized:
+      en: About Page
   - url_localized:
       en: https://www.google.com
       es: https://www.google.es

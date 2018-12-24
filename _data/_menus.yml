@@ -1,6 +1,7 @@
 ---
 main:
   depth: 2
+  label: Top Menu
   items:
   - page_id: index.html
     label_localized:

@@ -46,7 +46,7 @@ main:
       url_localized: ''
       page_id: _pages/terms.html
       items: 
-    expanded: false
+    expanded: true
   - label_localized:
       en: Group
       es: Group (ES)

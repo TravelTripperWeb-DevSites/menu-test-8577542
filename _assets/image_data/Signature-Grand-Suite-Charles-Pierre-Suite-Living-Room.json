@@ -15,5 +15,11 @@
   "size": 69270,
   "caption": "Charles Pierre Suite Living Room",
   "description": "",
-  "alt": "Charles Pierre Suite Living Room"
+  "alt": "Charles Pierre Suite Living Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105748/imkzf7g2s49lky8w4tai.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105748/large_imkzf7g2s49lky8w4tai.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105748/medium_imkzf7g2s49lky8w4tai.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105748/small_imkzf7g2s49lky8w4tai.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105748/xsmall_imkzf7g2s49lky8w4tai.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105748/thumb_imkzf7g2s49lky8w4tai.jpg"
 }

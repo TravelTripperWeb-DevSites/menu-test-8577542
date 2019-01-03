@@ -1,0 +1,285 @@
+{
+  "name_localized": {
+    "en": "Signature Grand Suite",
+    "es": "Signature Grand Suite"
+  },
+  "short_description_localized": {
+    "en": "Stunning views, inspired décor and unmatched exclusivity epitomize the Signature Grand Suites, a collection of intimate residences for the exceptionally discerning traveler.",
+    "es": "Stunning views, inspired décor and unmatched exclusivity epitomize the Signature Grand Suites, a collection of intimate residences for the exceptionally discerning traveler."
+  },
+  "description_localized": {
+    "en": "Stunning views, inspired décor and unmatched exclusivity epitomize the Signature Grand Suites, a collection of intimate residences for the exceptionally discerning traveler. Each Signature Grand Suite is named for a unique aspect of the hotel or an illustrious figure who called The Pierre home, unique in design and ambiance. Two of the Signature Grand Suites offer private, spacious outdoor terraces, and all feature ample living and dining space. Lofty ceilings and large windows make way for abundant natural light; some suites offer views of the soaring Manhattan skyline, while others are framed by panoramic views of Central Park. Located throughout the hotel, Signature Grand Suites are available with one to three bedrooms and range in size from 1,300 to 2,000 square feet, or 121 to 186 square meters. In addition to a pantry kitchen, other amenities include a Bose Wave Studio with iPhone docking station, 40” interactive flat screen TVs in the bedroom and living room, electronic laptop safe with charging capabilities, and a working desk with built-in power and data ports. Basic WiFi is complimentary; high-speed internet is available at a nominal fee.\r\n\r\n\r\n\r\n",
+    "es": "Stunning views, inspired décor and unmatched exclusivity epitomize the Signature Grand Suites, a collection of intimate residences for the exceptionally discerning traveler. Each Signature Grand Suite is named for a unique aspect of the hotel or an illustrious figure who called The Pierre home, unique in design and ambiance. Two of the Signature Grand Suites offer private, spacious outdoor terraces, and all feature ample living and dining space. Lofty ceilings and large windows make way for abundant natural light; some suites offer views of the soaring Manhattan skyline, while others are framed by panoramic views of Central Park. Located throughout the hotel, Signature Grand Suites are available with one to three bedrooms and range in size from 1,300 to 2,000 square feet, or 121 to 186 square meters. In addition to a pantry kitchen, other amenities include a Bose Wave Studio with iPhone docking station, 40” interactive flat screen TVs in the bedroom and living room, electronic laptop safe with charging capabilities, and a working desk with built-in power and data ports. Basic WiFi is complimentary; high-speed internet is available at a nominal fee.\r\n\r\n\r\n\r\n"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "40\" flatscreen TV"
+      },
+      {
+        "name": "Bose speakers"
+      },
+      {
+        "name": "Pantry kitchen (based on category)"
+      },
+      {
+        "name": "Private terrace (based on category)"
+      },
+      {
+        "name": "Complimentary water bottles"
+      },
+      {
+        "name": "Mini bar"
+      },
+      {
+        "name": "Upper East Side views"
+      },
+      {
+        "name": "Beautiful city views"
+      },
+      {
+        "name": "Partial view of Central Park"
+      },
+      {
+        "name": "Separate living room"
+      },
+      {
+        "name": "Decorative fireplace"
+      },
+      {
+        "name": "Garden Terrace"
+      },
+      {
+        "name": "Dining Room"
+      },
+      {
+        "name": "View of Wollman skating rink at Central Park"
+      },
+      {
+        "name": "View of Central Park"
+      }
+    ],
+    "es": [
+      {
+        "name": "40\" flatscreen TV"
+      },
+      {
+        "name": "Bose speakers"
+      },
+      {
+        "name": "Pantry kitchen (based on category)"
+      },
+      {
+        "name": "Private terrace (based on category)"
+      },
+      {
+        "name": "Complimentary water bottles"
+      },
+      {
+        "name": "Mini bar"
+      },
+      {
+        "name": "Upper East Side views"
+      },
+      {
+        "name": "Beautiful city views"
+      },
+      {
+        "name": "Partial view of Central Park"
+      },
+      {
+        "name": "Separate living room"
+      },
+      {
+        "name": "Decorative fireplace"
+      },
+      {
+        "name": "Garden Terrace"
+      },
+      {
+        "name": "Dining Room"
+      },
+      {
+        "name": "View of Wollman skating rink at Central Park"
+      },
+      {
+        "name": "View of Central Park"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Signature-Grand-Suite-Charles-Pierre-Suite",
+      "content_type": null,
+      "date_added": "2019-01-03-105719",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546531040/ukwiukbkkhdsrqvyhaho.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546531040/ukwiukbkkhdsrqvyhaho.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546531040/ukwiukbkkhdsrqvyhaho.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546531040/ukwiukbkkhdsrqvyhaho.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546531040/ukwiukbkkhdsrqvyhaho.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546531040/ukwiukbkkhdsrqvyhaho.jpg",
+      "resource_type": "image",
+      "size": 73695,
+      "caption": "Charles Pierre Suite",
+      "description": "",
+      "alt": "Charles Pierre Suite"
+    },
+    {
+      "name": "Signature-Grand-Suite-Charles-Pierre-Suite-Living-Room",
+      "content_type": null,
+      "date_added": "2019-01-03-105720",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546531041/imkzf7g2s49lky8w4tai.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546531041/imkzf7g2s49lky8w4tai.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546531041/imkzf7g2s49lky8w4tai.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546531041/imkzf7g2s49lky8w4tai.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546531041/imkzf7g2s49lky8w4tai.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546531041/imkzf7g2s49lky8w4tai.jpg",
+      "resource_type": "image",
+      "size": 69270,
+      "caption": "Charles Pierre Suite Living Room",
+      "description": "",
+      "alt": "Charles Pierre Suite Living Room"
+    },
+    {
+      "name": "Signature-Grand-Suite-Charles-Pierre-Dining-Room",
+      "content_type": null,
+      "date_added": "2019-01-03-105721",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546531041/puzv9snqlmkmhbbujrka.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546531041/puzv9snqlmkmhbbujrka.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546531041/puzv9snqlmkmhbbujrka.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546531041/puzv9snqlmkmhbbujrka.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546531041/puzv9snqlmkmhbbujrka.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546531041/puzv9snqlmkmhbbujrka.jpg",
+      "resource_type": "image",
+      "size": 61256,
+      "caption": "Charles Pierre Dining Room",
+      "description": "",
+      "alt": "Charles Pierre Dining Room"
+    },
+    {
+      "name": "Signature-Grand-Suite-Charles-Pierre-Master-Bedroom",
+      "content_type": null,
+      "date_added": "2019-01-03-105722",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546531042/x77g7olrvtsrtzshptb3.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546531042/x77g7olrvtsrtzshptb3.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546531042/x77g7olrvtsrtzshptb3.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546531042/x77g7olrvtsrtzshptb3.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546531042/x77g7olrvtsrtzshptb3.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546531042/x77g7olrvtsrtzshptb3.jpg",
+      "resource_type": "image",
+      "size": 57698,
+      "caption": "Charles Pierre Master Bedroom",
+      "description": "",
+      "alt": "Charles Pierre Master Bedroom"
+    },
+    {
+      "name": "Signature-Grand-Suite-Getty-Suite-Living-Room",
+      "content_type": null,
+      "date_added": "2019-01-03-105722",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546531042/izhfglcufmz9fyxl9gvg.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546531042/izhfglcufmz9fyxl9gvg.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546531042/izhfglcufmz9fyxl9gvg.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546531042/izhfglcufmz9fyxl9gvg.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546531042/izhfglcufmz9fyxl9gvg.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546531042/izhfglcufmz9fyxl9gvg.jpg",
+      "resource_type": "image",
+      "size": 74718,
+      "caption": "Getty Suite Living Room",
+      "description": "",
+      "alt": "Getty Suite Living Room"
+    },
+    {
+      "name": "Signature-Grand-Suite-Hutton-Suite-Master-Bedroom",
+      "content_type": null,
+      "date_added": "2019-01-03-105723",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546531043/ubnulhnwk3g32fpgmgxo.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546531043/ubnulhnwk3g32fpgmgxo.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546531043/ubnulhnwk3g32fpgmgxo.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546531043/ubnulhnwk3g32fpgmgxo.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546531043/ubnulhnwk3g32fpgmgxo.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546531043/ubnulhnwk3g32fpgmgxo.jpg",
+      "resource_type": "image",
+      "size": 67998,
+      "caption": "Hutton Suite Master Bedroom",
+      "description": "",
+      "alt": "Hutton Suite Master Bedroom"
+    },
+    {
+      "name": "Signature-Grand-Suite-Hutton-Suite-Living-Room",
+      "content_type": null,
+      "date_added": "2019-01-03-105724",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546531044/xy4keqrku1cqntywp9oh.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546531044/xy4keqrku1cqntywp9oh.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546531044/xy4keqrku1cqntywp9oh.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546531044/xy4keqrku1cqntywp9oh.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546531044/xy4keqrku1cqntywp9oh.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546531044/xy4keqrku1cqntywp9oh.jpg",
+      "resource_type": "image",
+      "size": 84797,
+      "caption": "Hutton Suite Living Room",
+      "description": "",
+      "alt": "Hutton Suite Living Room"
+    },
+    {
+      "name": "Signature-Grand-Suite-Park-Suite-Living-Room",
+      "content_type": null,
+      "date_added": "2019-01-03-105724",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546531045/ngt7xaohjhis40grn1pg.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546531045/ngt7xaohjhis40grn1pg.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546531045/ngt7xaohjhis40grn1pg.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546531045/ngt7xaohjhis40grn1pg.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546531045/ngt7xaohjhis40grn1pg.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546531045/ngt7xaohjhis40grn1pg.jpg",
+      "resource_type": "image",
+      "size": 70502,
+      "caption": "Park Suite Living Room",
+      "description": "",
+      "alt": "Park Suite Living Room"
+    },
+    {
+      "name": "Signature-Grand-Suite-Park-Suite-Bedroom",
+      "content_type": null,
+      "date_added": "2019-01-03-105725",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546531046/ywvjq8foewhuzpblzu8r.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546531046/ywvjq8foewhuzpblzu8r.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546531046/ywvjq8foewhuzpblzu8r.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546531046/ywvjq8foewhuzpblzu8r.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546531046/ywvjq8foewhuzpblzu8r.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546531046/ywvjq8foewhuzpblzu8r.jpg",
+      "resource_type": "image",
+      "size": 63883,
+      "caption": "Park Suite Bedroom",
+      "description": "",
+      "alt": "Park Suite Bedroom"
+    }
+  ],
+  "reztrip_room_id": "ABS",
+  "order": 15
+}

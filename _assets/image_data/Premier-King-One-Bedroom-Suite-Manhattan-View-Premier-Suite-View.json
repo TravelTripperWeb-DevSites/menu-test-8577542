@@ -15,5 +15,11 @@
   "size": 70400,
   "caption": "Premier Suite View",
   "description": "",
-  "alt": "Premier Suite View"
+  "alt": "Premier Suite View",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105718/xgjok33t0df2qmbyeuga.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105718/large_xgjok33t0df2qmbyeuga.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105718/medium_xgjok33t0df2qmbyeuga.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105718/small_xgjok33t0df2qmbyeuga.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105718/xsmall_xgjok33t0df2qmbyeuga.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105718/thumb_xgjok33t0df2qmbyeuga.jpg"
 }

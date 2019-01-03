@@ -15,5 +15,11 @@
   "size": 62798,
   "caption": "Deluxe Room",
   "description": "Spectacular city views and spacious accommodations define our Deluxe Rooms.",
-  "alt": "Deluxe Room"
+  "alt": "Deluxe Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104721/rssudzyaxdteseqeopqk.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104721/large_rssudzyaxdteseqeopqk.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104721/medium_rssudzyaxdteseqeopqk.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104721/small_rssudzyaxdteseqeopqk.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104721/xsmall_rssudzyaxdteseqeopqk.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104721/thumb_rssudzyaxdteseqeopqk.jpg"
 }

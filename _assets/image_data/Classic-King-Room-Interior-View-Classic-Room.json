@@ -15,5 +15,11 @@
   "size": 67842,
   "caption": "Classic Room",
   "description": "Warm natural light and a spacious soaking tub make the Classic Room a peaceful retreat.",
-  "alt": "Classic Room"
+  "alt": "Classic Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104727/w2v4frpzegveggaacv50.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104727/large_w2v4frpzegveggaacv50.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104727/medium_w2v4frpzegveggaacv50.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104727/small_w2v4frpzegveggaacv50.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104727/xsmall_w2v4frpzegveggaacv50.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104727/thumb_w2v4frpzegveggaacv50.jpg"
 }

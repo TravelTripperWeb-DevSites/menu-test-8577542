@@ -15,5 +15,11 @@
   "size": 65823,
   "caption": "City View Room",
   "description": "The City View King Rooms offer elegant residential grace with four-fixture bathrooms and beautiful Manhattan views.",
-  "alt": "City View Room"
+  "alt": "City View Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104845/vt1g0yl3ijqjbz15r421.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104845/large_vt1g0yl3ijqjbz15r421.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104845/medium_vt1g0yl3ijqjbz15r421.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104845/small_vt1g0yl3ijqjbz15r421.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104845/xsmall_vt1g0yl3ijqjbz15r421.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104845/thumb_vt1g0yl3ijqjbz15r421.jpg"
 }

@@ -15,5 +15,11 @@
   "size": 62034,
   "caption": "Twin Room",
   "description": "",
-  "alt": "Twin Room"
+  "alt": "Twin Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105710/cjqduaaikcur8ecd7scx.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105710/large_cjqduaaikcur8ecd7scx.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105710/medium_cjqduaaikcur8ecd7scx.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105710/small_cjqduaaikcur8ecd7scx.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105710/xsmall_cjqduaaikcur8ecd7scx.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105710/thumb_cjqduaaikcur8ecd7scx.jpg"
 }

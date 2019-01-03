@@ -15,5 +15,11 @@
   "size": 75963,
   "caption": "Park View King Room",
   "description": "Lovely views of Central Park stretch out toward uptown Manhattan.",
-  "alt": "Park View King Room"
+  "alt": "Park View King Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104747/imihfsdnvcrgaplkpi3i.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104747/large_imihfsdnvcrgaplkpi3i.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104747/medium_imihfsdnvcrgaplkpi3i.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104747/small_imihfsdnvcrgaplkpi3i.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104747/xsmall_imihfsdnvcrgaplkpi3i.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104747/thumb_imihfsdnvcrgaplkpi3i.jpg"
 }

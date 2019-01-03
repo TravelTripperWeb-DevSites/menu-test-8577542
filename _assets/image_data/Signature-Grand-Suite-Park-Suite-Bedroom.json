@@ -15,5 +15,11 @@
   "size": 63883,
   "caption": "Park Suite Bedroom",
   "description": "",
-  "alt": "Park Suite Bedroom"
+  "alt": "Park Suite Bedroom",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105804/ywvjq8foewhuzpblzu8r.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105804/large_ywvjq8foewhuzpblzu8r.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105804/medium_ywvjq8foewhuzpblzu8r.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105804/small_ywvjq8foewhuzpblzu8r.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105804/xsmall_ywvjq8foewhuzpblzu8r.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105804/thumb_ywvjq8foewhuzpblzu8r.jpg"
 }

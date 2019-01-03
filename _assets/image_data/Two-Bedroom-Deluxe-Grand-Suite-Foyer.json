@@ -15,5 +15,11 @@
   "size": 57660,
   "caption": "Foyer",
   "description": "",
-  "alt": "Foyer"
+  "alt": "Foyer",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105738/yvhtt9t6ntpuxwy9yczf.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105738/large_yvhtt9t6ntpuxwy9yczf.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105738/medium_yvhtt9t6ntpuxwy9yczf.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105738/small_yvhtt9t6ntpuxwy9yczf.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105738/xsmall_yvhtt9t6ntpuxwy9yczf.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105738/thumb_yvhtt9t6ntpuxwy9yczf.jpg"
 }

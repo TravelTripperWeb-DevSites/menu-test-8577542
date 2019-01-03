@@ -15,5 +15,11 @@
   "size": 61256,
   "caption": "Charles Pierre Dining Room",
   "description": "",
-  "alt": "Charles Pierre Dining Room"
+  "alt": "Charles Pierre Dining Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105752/puzv9snqlmkmhbbujrka.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105752/large_puzv9snqlmkmhbbujrka.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105752/medium_puzv9snqlmkmhbbujrka.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105752/small_puzv9snqlmkmhbbujrka.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105752/xsmall_puzv9snqlmkmhbbujrka.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105752/thumb_puzv9snqlmkmhbbujrka.jpg"
 }

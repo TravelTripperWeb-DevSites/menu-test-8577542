@@ -15,5 +15,11 @@
   "size": 67336,
   "caption": "Superior Room",
   "description": "Elegant design and a spectacularly comfortable bed epitomize the Superior Rooms.",
-  "alt": "Superior Room"
+  "alt": "Superior Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104818/tkin81ndcq2r1tan7xdl.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104818/large_tkin81ndcq2r1tan7xdl.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104818/medium_tkin81ndcq2r1tan7xdl.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104818/small_tkin81ndcq2r1tan7xdl.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104818/xsmall_tkin81ndcq2r1tan7xdl.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104818/thumb_tkin81ndcq2r1tan7xdl.jpg"
 }

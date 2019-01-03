@@ -15,5 +15,11 @@
   "size": 60250,
   "caption": "Master Bathroom",
   "description": "",
-  "alt": "Master Bathroom"
+  "alt": "Master Bathroom",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105909/rtk2cjbh2ctutnte8l7o.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105909/large_rtk2cjbh2ctutnte8l7o.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105909/medium_rtk2cjbh2ctutnte8l7o.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105909/small_rtk2cjbh2ctutnte8l7o.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105909/xsmall_rtk2cjbh2ctutnte8l7o.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105909/thumb_rtk2cjbh2ctutnte8l7o.jpg"
 }

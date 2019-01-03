@@ -15,5 +15,11 @@
   "size": 68157,
   "caption": "Bedroom",
   "description": "",
-  "alt": "Bedroom"
+  "alt": "Bedroom",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105814/fqsm5wgbzjipulmse6pu.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105814/large_fqsm5wgbzjipulmse6pu.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105814/medium_fqsm5wgbzjipulmse6pu.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105814/small_fqsm5wgbzjipulmse6pu.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105814/xsmall_fqsm5wgbzjipulmse6pu.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105814/thumb_fqsm5wgbzjipulmse6pu.jpg"
 }

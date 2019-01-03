@@ -15,5 +15,11 @@
   "size": 57698,
   "caption": "Charles Pierre Master Bedroom",
   "description": "",
-  "alt": "Charles Pierre Master Bedroom"
+  "alt": "Charles Pierre Master Bedroom",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/x77g7olrvtsrtzshptb3.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/large_x77g7olrvtsrtzshptb3.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/medium_x77g7olrvtsrtzshptb3.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/small_x77g7olrvtsrtzshptb3.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/xsmall_x77g7olrvtsrtzshptb3.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/thumb_x77g7olrvtsrtzshptb3.jpg"
 }

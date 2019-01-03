@@ -15,5 +15,11 @@
   "size": 74718,
   "caption": "Getty Suite Living Room",
   "description": "",
-  "alt": "Getty Suite Living Room"
+  "alt": "Getty Suite Living Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/izhfglcufmz9fyxl9gvg.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/large_izhfglcufmz9fyxl9gvg.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/medium_izhfglcufmz9fyxl9gvg.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/small_izhfglcufmz9fyxl9gvg.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/xsmall_izhfglcufmz9fyxl9gvg.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105754/thumb_izhfglcufmz9fyxl9gvg.jpg"
 }

@@ -15,5 +15,11 @@
   "size": 65564,
   "caption": "Second Bedroom",
   "description": "",
-  "alt": "Second Bedroom"
+  "alt": "Second Bedroom",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105832/bnbflm22ep73ojqzbhjr.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105832/large_bnbflm22ep73ojqzbhjr.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105832/medium_bnbflm22ep73ojqzbhjr.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105832/small_bnbflm22ep73ojqzbhjr.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105832/xsmall_bnbflm22ep73ojqzbhjr.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105832/thumb_bnbflm22ep73ojqzbhjr.jpg"
 }

@@ -15,5 +15,11 @@
   "size": 59943,
   "caption": "Bathroom",
   "description": "",
-  "alt": "Bathroom"
+  "alt": "Bathroom",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104741/dbljyemtxxpllhkbxfxj.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104741/large_dbljyemtxxpllhkbxfxj.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104741/medium_dbljyemtxxpllhkbxfxj.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104741/small_dbljyemtxxpllhkbxfxj.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104741/xsmall_dbljyemtxxpllhkbxfxj.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104741/thumb_dbljyemtxxpllhkbxfxj.jpg"
 }

@@ -15,5 +15,11 @@
   "size": 84797,
   "caption": "Hutton Suite Living Room",
   "description": "",
-  "alt": "Hutton Suite Living Room"
+  "alt": "Hutton Suite Living Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105800/xy4keqrku1cqntywp9oh.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105800/large_xy4keqrku1cqntywp9oh.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105800/medium_xy4keqrku1cqntywp9oh.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105800/small_xy4keqrku1cqntywp9oh.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105800/xsmall_xy4keqrku1cqntywp9oh.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105800/thumb_xy4keqrku1cqntywp9oh.jpg"
 }

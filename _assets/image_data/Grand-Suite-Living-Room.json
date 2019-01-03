@@ -15,5 +15,11 @@
   "size": 74718,
   "caption": "Living Room",
   "description": "",
-  "alt": "Living Room"
+  "alt": "Living Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105824/wllmvjkhmdjdsaer7wam.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105824/large_wllmvjkhmdjdsaer7wam.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105824/medium_wllmvjkhmdjdsaer7wam.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105824/small_wllmvjkhmdjdsaer7wam.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105824/xsmall_wllmvjkhmdjdsaer7wam.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105824/thumb_wllmvjkhmdjdsaer7wam.jpg"
 }

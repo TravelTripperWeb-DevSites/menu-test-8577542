@@ -15,5 +15,11 @@
   "size": 79739,
   "caption": "Presidential Suite Living Room",
   "description": "",
-  "alt": "Presidential Suite Living Room"
+  "alt": "Presidential Suite Living Room",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105808/u0t6kwtwswqeoymu1rxu.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105808/large_u0t6kwtwswqeoymu1rxu.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105808/medium_u0t6kwtwswqeoymu1rxu.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105808/small_u0t6kwtwswqeoymu1rxu.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105808/xsmall_u0t6kwtwswqeoymu1rxu.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105808/thumb_u0t6kwtwswqeoymu1rxu.jpg"
 }

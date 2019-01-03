@@ -15,5 +15,11 @@
   "size": 83709,
   "caption": "Metropolitan Suite",
   "description": "Metropolitan Grand Suite",
-  "alt": "Metropolitan Suite"
+  "alt": "Metropolitan Suite",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105844/nnujhi5fbyimn4deqesc.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105844/large_nnujhi5fbyimn4deqesc.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105844/medium_nnujhi5fbyimn4deqesc.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105844/small_nnujhi5fbyimn4deqesc.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105844/xsmall_nnujhi5fbyimn4deqesc.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-105844/thumb_nnujhi5fbyimn4deqesc.jpg"
 }

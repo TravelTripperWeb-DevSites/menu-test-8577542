@@ -15,5 +15,11 @@
   "size": 62034,
   "caption": "City View 2 Twins",
   "description": "Two comfortable twin beds in a space with high ceilings and views of manhattan",
-  "alt": "City View 2 Twins"
+  "alt": "City View 2 Twins",
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104746/ajdi7dnkfc4pxyrr7thx.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104746/large_ajdi7dnkfc4pxyrr7thx.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104746/medium_ajdi7dnkfc4pxyrr7thx.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104746/small_ajdi7dnkfc4pxyrr7thx.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104746/xsmall_ajdi7dnkfc4pxyrr7thx.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-03-104746/thumb_ajdi7dnkfc4pxyrr7thx.jpg"
 }

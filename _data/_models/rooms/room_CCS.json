@@ -1,0 +1,135 @@
+{
+  "name_localized": {
+    "en": "City View Two Bedroom Suites",
+    "es": "City View Two Bedroom Suites"
+  },
+  "short_description_localized": {
+    "en": "Featuring two four-fixture bathrooms and beautiful Manhattan views, our 1150 square foot City View  Two Bedroom Suites offer quintessential Manhattan charm ",
+    "es": "Featuring two four-fixture bathrooms and beautiful Manhattan views, our 1150 square foot City View  Two Bedroom Suites offer quintessential Manhattan charm "
+  },
+  "description_localized": {
+    "en": "Featuring two four-fixture bathrooms and beautiful Manhattan views, our 1150 square foot City View  Two Bedroom Suites offer quintessential Manhattan charm and are situated on floors 5 to 14. These suites feature two separate bedrooms with 1 King and 2 Twin beds, two Bathrooms, and a separate living area with high ceilings and large windows.",
+    "es": "Featuring two four-fixture bathrooms and beautiful Manhattan views, our 1150 square foot City View  Two Bedroom Suites offer quintessential Manhattan charm and are situated on floors 5 to 14. These suites feature two separate bedrooms with 1 King and 2 Twin beds, two Bathrooms, and a separate living area with high ceilings and large windows."
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "40\" flatscreen TV"
+      },
+      {
+        "name": "Bose speakers"
+      },
+      {
+        "name": "Complimentary water bottles"
+      },
+      {
+        "name": "Floors 5-14"
+      },
+      {
+        "name": "Exquisite city views"
+      },
+      {
+        "name": "Separate living room"
+      }
+    ],
+    "es": [
+      {
+        "name": "40\" flatscreen TV"
+      },
+      {
+        "name": "Bose speakers"
+      },
+      {
+        "name": "Complimentary water bottles"
+      },
+      {
+        "name": "Floors 5-14"
+      },
+      {
+        "name": "Exquisite city views"
+      },
+      {
+        "name": "Separate living room"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "City-View-Two-Bedroom-Suites-Master-Bedroom",
+      "content_type": null,
+      "date_added": "2019-01-04-133415",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546626856/azaciuyn7hzoijtvtmgs.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546626856/azaciuyn7hzoijtvtmgs.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546626856/azaciuyn7hzoijtvtmgs.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546626856/azaciuyn7hzoijtvtmgs.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546626856/azaciuyn7hzoijtvtmgs.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546626856/azaciuyn7hzoijtvtmgs.jpg",
+      "resource_type": "image",
+      "size": 71913,
+      "caption": "Master Bedroom",
+      "description": "",
+      "alt": "Master Bedroom",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130819/eygzhbpzujfwe9ra0dla.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130819/large_eygzhbpzujfwe9ra0dla.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130819/medium_eygzhbpzujfwe9ra0dla.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130819/small_eygzhbpzujfwe9ra0dla.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130819/xsmall_eygzhbpzujfwe9ra0dla.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130819/thumb_eygzhbpzujfwe9ra0dla.jpg"
+    },
+    {
+      "name": "City-View-Two-Bedroom-Suites-Living-Room",
+      "content_type": null,
+      "date_added": "2019-01-04-133417",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546626857/pwljt3omcfeprowf1veq.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546626857/pwljt3omcfeprowf1veq.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546626857/pwljt3omcfeprowf1veq.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546626857/pwljt3omcfeprowf1veq.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546626857/pwljt3omcfeprowf1veq.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546626857/pwljt3omcfeprowf1veq.jpg",
+      "resource_type": "image",
+      "size": 77740,
+      "caption": "Living Room",
+      "description": "",
+      "alt": "Living Room",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130903/zkoxjcsm9qnwguf9wx95.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130903/large_zkoxjcsm9qnwguf9wx95.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130903/medium_zkoxjcsm9qnwguf9wx95.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130903/small_zkoxjcsm9qnwguf9wx95.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130903/xsmall_zkoxjcsm9qnwguf9wx95.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130903/thumb_zkoxjcsm9qnwguf9wx95.jpg"
+    },
+    {
+      "name": "City-View-Two-Bedroom-Suites-Second-Bedroom",
+      "content_type": null,
+      "date_added": "2019-01-04-133418",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546626858/krlevrj7paggfjsakpoi.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546626858/krlevrj7paggfjsakpoi.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546626858/krlevrj7paggfjsakpoi.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546626858/krlevrj7paggfjsakpoi.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546626858/krlevrj7paggfjsakpoi.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546626858/krlevrj7paggfjsakpoi.jpg",
+      "resource_type": "image",
+      "size": 65564,
+      "caption": "Second Bedroom",
+      "description": "",
+      "alt": "Second Bedroom",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130822/lbeyn5i33yjawzkv7fwq.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130822/large_lbeyn5i33yjawzkv7fwq.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130822/medium_lbeyn5i33yjawzkv7fwq.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130822/small_lbeyn5i33yjawzkv7fwq.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130822/xsmall_lbeyn5i33yjawzkv7fwq.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130822/thumb_lbeyn5i33yjawzkv7fwq.jpg"
+    }
+  ],
+  "reztrip_room_id": "CCS",
+  "order": 19
+}

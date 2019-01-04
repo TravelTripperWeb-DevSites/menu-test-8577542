@@ -1,0 +1,85 @@
+{
+  "name_localized": {
+    "en": "Metropolitan Suite",
+    "es": "Metropolitan Suite"
+  },
+  "short_description_localized": {
+    "en": "Measuring 970 square feet, the Metropolitan Suite features Manhattan residential style with high ceilings, and furnishings in rich golds and royal blues. The suite is located on the 8th floor.",
+    "es": "Measuring 970 square feet, the Metropolitan Suite features Manhattan residential style with high ceilings, and furnishings in rich golds and royal blues. The suite is located on the 8th floor."
+  },
+  "description_localized": {
+    "en": "Measuring 970 square feet, this suite evokes an ambiance of a classic Manhattan residence with high ceilings, furnished with a palette of rich golds and royal blues. The Metropolitan Suite is located on the 8th floor.",
+    "es": "Measuring 970 square feet, this suite evokes an ambiance of a classic Manhattan residence with high ceilings, furnished with a palette of rich golds and royal blues. The Metropolitan Suite is located on the 8th floor."
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "40\" flatscreen TV"
+      },
+      {
+        "name": "Bose speakers"
+      },
+      {
+        "name": "Complimentary water bottles"
+      },
+      {
+        "name": "Mini bar"
+      },
+      {
+        "name": "Floors 4-14"
+      },
+      {
+        "name": "Beautiful city views"
+      }
+    ],
+    "es": [
+      {
+        "name": "40\" flatscreen TV"
+      },
+      {
+        "name": "Bose speakers"
+      },
+      {
+        "name": "Complimentary water bottles"
+      },
+      {
+        "name": "Mini bar"
+      },
+      {
+        "name": "Floors 4-14"
+      },
+      {
+        "name": "Beautiful city views"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Metropolitan-Suite-Metropolitan-Suite",
+      "content_type": null,
+      "date_added": "2019-01-04-133342",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546626822/idw3kftkimfi2wvjxqh5.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546626822/idw3kftkimfi2wvjxqh5.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546626822/idw3kftkimfi2wvjxqh5.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546626822/idw3kftkimfi2wvjxqh5.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546626822/idw3kftkimfi2wvjxqh5.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546626822/idw3kftkimfi2wvjxqh5.jpg",
+      "resource_type": "image",
+      "size": 83709,
+      "caption": "Metropolitan Suite",
+      "description": "Metropolitan Grand Suite",
+      "alt": "Metropolitan Suite",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130714/xsskyqud0qzn2yrt645a.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130714/large_xsskyqud0qzn2yrt645a.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130714/medium_xsskyqud0qzn2yrt645a.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130714/small_xsskyqud0qzn2yrt645a.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130714/xsmall_xsskyqud0qzn2yrt645a.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130714/thumb_xsskyqud0qzn2yrt645a.jpg"
+    }
+  ],
+  "reztrip_room_id": "A1S",
+  "order": 12
+}

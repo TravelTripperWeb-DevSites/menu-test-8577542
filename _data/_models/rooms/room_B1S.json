@@ -1,0 +1,166 @@
+{
+  "name_localized": {
+    "en": "Premier King One Bedroom Suite Manhattan View",
+    "es": "Premier King One Bedroom Suite Manhattan View"
+  },
+  "short_description_localized": {
+    "en": "Measuring 900 square feet, Premier One Bedroom Suites are spectacularly spacious, with four-fixture bathrooms and beautiful city views. These suites are located on floors 26 to 39.",
+    "es": "Measuring 900 square feet, Premier One Bedroom Suites are spectacularly spacious, with four-fixture bathrooms and beautiful city views. These suites are located on floors 26 to 39."
+  },
+  "description_localized": {
+    "en": "Measuring 900 square feet, Premier One Bedroom Suites are spectacularly spacious, with four-fixture bathrooms and beautiful city views. These suites are located on floors 26 to 39.",
+    "es": "Measuring 900 square feet, Premier One Bedroom Suites are spectacularly spacious, with four-fixture bathrooms and beautiful city views. These suites are located on floors 26 to 39."
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "40\" flatscreen TV"
+      },
+      {
+        "name": "Bose speakers"
+      },
+      {
+        "name": "Complimentary water bottles"
+      },
+      {
+        "name": "Mini bar"
+      },
+      {
+        "name": "Beautiful city views"
+      },
+      {
+        "name": "Separate living room"
+      },
+      {
+        "name": "Floors 26-39"
+      }
+    ],
+    "es": [
+      {
+        "name": "40\" flatscreen TV"
+      },
+      {
+        "name": "Bose speakers"
+      },
+      {
+        "name": "Complimentary water bottles"
+      },
+      {
+        "name": "Mini bar"
+      },
+      {
+        "name": "Beautiful city views"
+      },
+      {
+        "name": "Separate living room"
+      },
+      {
+        "name": "Floors 26-39"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Premier-King-One-Bedroom-Suite-Manhattan-View-Living-Room",
+      "content_type": null,
+      "date_added": "2019-01-04-132441",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546626281/v8k9wlgxx9a5w3uink8z.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546626281/v8k9wlgxx9a5w3uink8z.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546626281/v8k9wlgxx9a5w3uink8z.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546626281/v8k9wlgxx9a5w3uink8z.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546626281/v8k9wlgxx9a5w3uink8z.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546626281/v8k9wlgxx9a5w3uink8z.jpg",
+      "resource_type": "image",
+      "size": 64278,
+      "caption": "Living Room",
+      "description": "",
+      "alt": "Living Room",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130825/aaeiodoggxggmthonbzj.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130825/large_aaeiodoggxggmthonbzj.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130825/medium_aaeiodoggxggmthonbzj.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130825/small_aaeiodoggxggmthonbzj.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130825/xsmall_aaeiodoggxggmthonbzj.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130825/thumb_aaeiodoggxggmthonbzj.jpg"
+    },
+    {
+      "name": "Premier-King-One-Bedroom-Suite-Manhattan-View-Bedroom",
+      "content_type": null,
+      "date_added": "2019-01-04-132441",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546626281/tqcikykzvwqvol3iycpa.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546626281/tqcikykzvwqvol3iycpa.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546626281/tqcikykzvwqvol3iycpa.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546626281/tqcikykzvwqvol3iycpa.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546626281/tqcikykzvwqvol3iycpa.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546626281/tqcikykzvwqvol3iycpa.jpg",
+      "resource_type": "image",
+      "size": 59523,
+      "caption": "Bedroom",
+      "description": "",
+      "alt": "Bedroom",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130708/etknom9iqhmidjchkjwk.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130708/large_etknom9iqhmidjchkjwk.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130708/medium_etknom9iqhmidjchkjwk.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130708/small_etknom9iqhmidjchkjwk.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130708/xsmall_etknom9iqhmidjchkjwk.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130708/thumb_etknom9iqhmidjchkjwk.jpg"
+    },
+    {
+      "name": "Premier-King-One-Bedroom-Suite-Manhattan-View-",
+      "content_type": null,
+      "date_added": "2019-01-04-132442",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546626282/jjti3arx6psrfxirxejc.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546626282/jjti3arx6psrfxirxejc.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546626282/jjti3arx6psrfxirxejc.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546626282/jjti3arx6psrfxirxejc.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546626282/jjti3arx6psrfxirxejc.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546626282/jjti3arx6psrfxirxejc.jpg",
+      "resource_type": "image",
+      "size": 64278,
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130710/ncktk8fmwfsmueq9kkn9.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130710/large_ncktk8fmwfsmueq9kkn9.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130710/medium_ncktk8fmwfsmueq9kkn9.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130710/small_ncktk8fmwfsmueq9kkn9.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130710/xsmall_ncktk8fmwfsmueq9kkn9.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130710/thumb_ncktk8fmwfsmueq9kkn9.jpg"
+    },
+    {
+      "name": "Premier-King-One-Bedroom-Suite-Manhattan-View-Premier-Suite-View",
+      "content_type": null,
+      "date_added": "2019-01-04-132442",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546626283/ogk4cv4vgmbigfmtzi09.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546626283/ogk4cv4vgmbigfmtzi09.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546626283/ogk4cv4vgmbigfmtzi09.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546626283/ogk4cv4vgmbigfmtzi09.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546626283/ogk4cv4vgmbigfmtzi09.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546626283/ogk4cv4vgmbigfmtzi09.jpg",
+      "resource_type": "image",
+      "size": 70400,
+      "caption": "Premier Suite View",
+      "description": "",
+      "alt": "Premier Suite View",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130827/vaj3bo7g21tjuim7gios.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130827/large_vaj3bo7g21tjuim7gios.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130827/medium_vaj3bo7g21tjuim7gios.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130827/small_vaj3bo7g21tjuim7gios.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130827/xsmall_vaj3bo7g21tjuim7gios.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130827/thumb_vaj3bo7g21tjuim7gios.jpg"
+    }
+  ],
+  "reztrip_room_id": "B1S",
+  "order": 11
+}

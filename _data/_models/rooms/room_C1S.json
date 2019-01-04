@@ -1,0 +1,116 @@
+{
+  "name_localized": {
+    "en": "City View King One Bedroom Suite Manhattan View ",
+    "es": "City View King One Bedroom Suite Manhattan View "
+  },
+  "short_description_localized": {
+    "en": "Measuring 800 square feet, City View King One Bedroom Suites offer  four-fixture bathrooms, beautiful city views and quintessential Manhattan charm. These suites are situated on floors 5 to 20.",
+    "es": "Measuring 800 square feet, City View King One Bedroom Suites offer  four-fixture bathrooms, beautiful city views and quintessential Manhattan charm. These suites are situated on floors 5 to 20."
+  },
+  "description_localized": {
+    "en": "Measuring 800 square feet, City View King One Bedroom Suites offer  four-fixture bathrooms, beautiful city views and quintessential Manhattan charm. These suites are situated on floors 5 to 20.",
+    "es": "Measuring 800 square feet, City View King One Bedroom Suites offer  four-fixture bathrooms, beautiful city views and quintessential Manhattan charm. These suites are situated on floors 5 to 20."
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "40\" flatscreen TV"
+      },
+      {
+        "name": "Bose speakers"
+      },
+      {
+        "name": "Complimentary water bottles"
+      },
+      {
+        "name": "Mini bar"
+      },
+      {
+        "name": "Floors 5-21"
+      },
+      {
+        "name": "Beautiful city views"
+      },
+      {
+        "name": "Separate living room"
+      }
+    ],
+    "es": [
+      {
+        "name": "40\" flatscreen TV"
+      },
+      {
+        "name": "Bose speakers"
+      },
+      {
+        "name": "Complimentary water bottles"
+      },
+      {
+        "name": "Mini bar"
+      },
+      {
+        "name": "Floors 5-21"
+      },
+      {
+        "name": "Beautiful city views"
+      },
+      {
+        "name": "Separate living room"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "City-View-King-One-Bedroom-Suite-Manhattan-View--",
+      "content_type": null,
+      "date_added": "2019-01-04-132435",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546626275/kvrcpqwquddz5m06l8dp.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546626275/kvrcpqwquddz5m06l8dp.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546626275/kvrcpqwquddz5m06l8dp.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546626275/kvrcpqwquddz5m06l8dp.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546626275/kvrcpqwquddz5m06l8dp.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546626275/kvrcpqwquddz5m06l8dp.jpg",
+      "resource_type": "image",
+      "size": 68119,
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130658/n4kobbnappgvvwku5bvh.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130658/large_n4kobbnappgvvwku5bvh.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130658/medium_n4kobbnappgvvwku5bvh.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130658/small_n4kobbnappgvvwku5bvh.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130658/xsmall_n4kobbnappgvvwku5bvh.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130658/thumb_n4kobbnappgvvwku5bvh.jpg"
+    },
+    {
+      "name": "City-View-King-One-Bedroom-Suite-Manhattan-View--Living-Room",
+      "content_type": null,
+      "date_added": "2019-01-04-132435",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546626275/o0zv3d69zu4siddz12rl.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546626275/o0zv3d69zu4siddz12rl.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546626275/o0zv3d69zu4siddz12rl.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546626275/o0zv3d69zu4siddz12rl.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546626275/o0zv3d69zu4siddz12rl.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546626275/o0zv3d69zu4siddz12rl.jpg",
+      "resource_type": "image",
+      "size": 76017,
+      "caption": "Living Room",
+      "description": "",
+      "alt": "Living Room",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130759/uimdauyivs5jbi9vs0m1.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130759/large_uimdauyivs5jbi9vs0m1.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130759/medium_uimdauyivs5jbi9vs0m1.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130759/small_uimdauyivs5jbi9vs0m1.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130759/xsmall_uimdauyivs5jbi9vs0m1.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130759/thumb_uimdauyivs5jbi9vs0m1.jpg"
+    }
+  ],
+  "reztrip_room_id": "C1S",
+  "order": 9
+}

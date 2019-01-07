@@ -1,6 +1,16 @@
 [
   {
-    "_template": "gallery"
+    "_template": "gallery",
+    "galleries": [
+      {
+        "label": "One",
+        "gallery": "gallery_b"
+      },
+      {
+        "gallery": "gallery_a",
+        "label": "Two"
+      }
+    ]
   },
   {
     "_template": "html",

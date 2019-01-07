@@ -126,6 +126,8 @@
         }
       }
     ],
-    "nav": true
+    "nav": true,
+    "autoplay_button_output": true,
+    "controls": false
   }
 ]

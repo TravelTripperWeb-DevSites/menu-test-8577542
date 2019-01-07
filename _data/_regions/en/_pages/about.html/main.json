@@ -1,5 +1,9 @@
 [
   {
+    "_template": "html",
+    "content": "<p>Test 2</p>"
+  },
+  {
     "_template": "hero_slider",
     "style": "",
     "slides": [
@@ -36,9 +40,5 @@
         }
       }
     ]
-  },
-  {
-    "_template": "html",
-    "content": "<p>Test 2</p>"
   }
 ]

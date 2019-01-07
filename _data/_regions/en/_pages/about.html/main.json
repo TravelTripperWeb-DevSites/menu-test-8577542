@@ -4,6 +4,9 @@
     "content": "<p>Test 2</p>"
   },
   {
+    "_template": "gallery"
+  },
+  {
     "_template": "hero_slider",
     "style": "",
     "slides": [
@@ -40,9 +43,6 @@
         }
       }
     ]
-  },
-  {
-    "_template": "gallery"
   },
   {
     "_template": "gallery"

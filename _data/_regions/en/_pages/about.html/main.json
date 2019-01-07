@@ -40,5 +40,8 @@
         }
       }
     ]
+  },
+  {
+    "_template": "gallery"
   }
 ]

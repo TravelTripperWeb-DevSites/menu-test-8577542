@@ -5,10 +5,6 @@
       {
         "label": "One",
         "gallery": "gallery_b"
-      },
-      {
-        "gallery": "gallery_a",
-        "label": "Two"
       }
     ]
   },

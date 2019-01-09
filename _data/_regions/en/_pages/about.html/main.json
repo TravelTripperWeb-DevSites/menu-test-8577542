@@ -51,10 +51,6 @@
     ]
   },
   {
-    "_template": "html",
-    "content": "<p>New HTML Content</p>\n<p>Lets get some&nbsp;breathing room!</p>"
-  },
-  {
     "_template": "slider",
     "slides": [
       {
@@ -125,5 +121,9 @@
     "nav": true,
     "autoplay_button_output": true,
     "controls": true
+  },
+  {
+    "_template": "html",
+    "content": "<p>New HTML Content</p>\n<p>Lets get some&nbsp;breathing room!</p>"
   }
 ]

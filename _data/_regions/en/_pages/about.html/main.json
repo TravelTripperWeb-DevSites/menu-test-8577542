@@ -52,7 +52,7 @@
   },
   {
     "_template": "html",
-    "content": "<p>New HTML Content</p>\n<p>Lets get some&nbsp;breathing room</p>\n<p>&nbsp;</p>"
+    "content": "<p>New HTML Content</p>\n<p>Lets get some&nbsp;breathing room!</p>\n<p>&nbsp;</p>"
   },
   {
     "_template": "slider",

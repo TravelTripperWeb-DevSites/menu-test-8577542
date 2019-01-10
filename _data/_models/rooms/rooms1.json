@@ -3,5 +3,10 @@
   "room_category": "Junior Suite",
   "name_localized": {
     "en": "Junior Suite Test"
-  }
+  },
+  "bed_arrangement": "double",
+  "guest_size_max": 6,
+  "amenities": [
+    "room_amenities1"
+  ]
 }

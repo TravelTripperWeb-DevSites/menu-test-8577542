@@ -1,16 +1,16 @@
 {
   "name": "City-View-King-One-Bed-Suite-Manhattan-View-ADA-Living-Room",
   "content_type": null,
-  "date_added": "2019-01-14-103325",
-  "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547480009/n1w28q2buhngivajxz7w.jpg",
-  "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547480009/n1w28q2buhngivajxz7w.jpg",
-  "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547480009/n1w28q2buhngivajxz7w.jpg",
-  "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547480009/n1w28q2buhngivajxz7w.jpg",
-  "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547480009/n1w28q2buhngivajxz7w.jpg",
+  "date_added": "2019-01-14-104310",
+  "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547480594/vchfx1mbypvzxkwh9mu3.jpg",
+  "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547480594/vchfx1mbypvzxkwh9mu3.jpg",
+  "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547480594/vchfx1mbypvzxkwh9mu3.jpg",
+  "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547480594/vchfx1mbypvzxkwh9mu3.jpg",
+  "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547480594/vchfx1mbypvzxkwh9mu3.jpg",
   "width": 800,
   "height": 600,
   "format": "jpg",
-  "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547480009/n1w28q2buhngivajxz7w.jpg",
+  "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547480594/vchfx1mbypvzxkwh9mu3.jpg",
   "resource_type": "image",
   "size": 72599,
   "caption": "Living Room",
@@ -21,5 +21,6 @@
   "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/medium_i3ixipfxvbah5nqkvqks.jpg",
   "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/small_i3ixipfxvbah5nqkvqks.jpg",
   "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/xsmall_i3ixipfxvbah5nqkvqks.jpg",
-  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/thumb_i3ixipfxvbah5nqkvqks.jpg"
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/thumb_i3ixipfxvbah5nqkvqks.jpg",
+  "original_url": "https://d31f902anbz5po.cloudfront.net/973/50110_4_yankee_large.jpg"
 }

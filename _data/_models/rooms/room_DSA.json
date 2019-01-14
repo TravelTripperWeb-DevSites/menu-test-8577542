@@ -78,7 +78,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/small_i3ixipfxvbah5nqkvqks.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/xsmall_i3ixipfxvbah5nqkvqks.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/thumb_i3ixipfxvbah5nqkvqks.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50110_4_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50110_4_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/City-View-King-One-Bed-Suite-Manhattan-View-ADA-Living-Room.json"
     }
   ],
   "reztrip_room_id": "DSA",

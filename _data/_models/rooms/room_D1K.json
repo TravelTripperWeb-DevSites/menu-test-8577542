@@ -1,0 +1,110 @@
+{
+  "name_localized": {
+    "en": "Deluxe King Room City View",
+    "es": "Deluxe King Room City View"
+  },
+  "short_description_localized": {
+    "en": "Measuring 350 square feet, Deluxe Rooms evoke a spacious residential feel with three-fixture bathrooms and beautiful Manhattan views. These rooms are situated on floors 5 to 20.",
+    "es": "Measuring 350 square feet, Deluxe Rooms evoke a spacious residential feel with three-fixture bathrooms and beautiful Manhattan views. These rooms are situated on floors 5 to 20."
+  },
+  "description_localized": {
+    "en": "Measuring 350 square feet, Deluxe Rooms evoke a spacious residential feel with three-fixture bathrooms and beautiful Manhattan views. These rooms are situated on floors 5 to 20.",
+    "es": "Measuring 350 square feet, Deluxe Rooms evoke a spacious residential feel with three-fixture bathrooms and beautiful Manhattan views. These rooms are situated on floors 5 to 20."
+  },
+  "amenities": [
+    "room_amenities1",
+    "room_amenities2",
+    "room_amenities3",
+    "room_amenities4",
+    "room_amenities9"
+  ],
+  "images": [
+    {
+      "name": "Deluxe-King-Room-City-View-Deluxe-Room",
+      "content_type": null,
+      "date_added": "2019-01-14-104934",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547480977/avwudpl4becivljndjzw.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547480977/avwudpl4becivljndjzw.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547480977/avwudpl4becivljndjzw.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547480977/avwudpl4becivljndjzw.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547480977/avwudpl4becivljndjzw.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547480977/avwudpl4becivljndjzw.jpg",
+      "resource_type": "image",
+      "size": 62798,
+      "caption": "Deluxe Room",
+      "description": "Spectacular city views and spacious accommodations define our Deluxe Rooms.",
+      "alt": "The comfortable and spacious Deluxe Room overlooks the city’s stunning Manhattan skyline. The room has a plush king sized bed. A night stand with Bose Wave Studio radio featuring Bluetooth connectivity and alarm clock, is located on one side and an executive writing desk and chair is located on the other side. An arm chair with side table, 40” wall mounted TV and console with mini bar is located across the bed. The marble three fixture bathroom features a pedestal sink, glass enclosed shower, plush bathrobes and towels and Etro bath amenities.",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132141/f4ffpnbjch9jlsvhxm0k.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132141/large_f4ffpnbjch9jlsvhxm0k.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132141/medium_f4ffpnbjch9jlsvhxm0k.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132141/small_f4ffpnbjch9jlsvhxm0k.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132141/xsmall_f4ffpnbjch9jlsvhxm0k.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132141/thumb_f4ffpnbjch9jlsvhxm0k.jpg",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45090_6_yankee_large.jpg"
+    },
+    {
+      "name": "Deluxe-King-Room-City-View-Bedroom",
+      "content_type": null,
+      "date_added": "2019-01-14-104934",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547480978/fbtf9xdmcu0v0zitbkhl.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547480978/fbtf9xdmcu0v0zitbkhl.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547480978/fbtf9xdmcu0v0zitbkhl.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547480978/fbtf9xdmcu0v0zitbkhl.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547480978/fbtf9xdmcu0v0zitbkhl.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547480978/fbtf9xdmcu0v0zitbkhl.jpg",
+      "resource_type": "image",
+      "size": 77941,
+      "caption": "Bedroom",
+      "description": "",
+      "alt": "The room has a plush king sized bed. A night stand with Bose Wave Studio radio featuring Bluetooth connectivity and alarm clock, is located on one side and an executive writing desk and chair is located on the other side. An arm chair with side table, 40” wall mounted TV and console with mini bar is located across the bed.",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132143/ibutx3bkbv9tsz55c6ze.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132143/large_ibutx3bkbv9tsz55c6ze.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132143/medium_ibutx3bkbv9tsz55c6ze.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132143/small_ibutx3bkbv9tsz55c6ze.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132143/xsmall_ibutx3bkbv9tsz55c6ze.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132143/thumb_ibutx3bkbv9tsz55c6ze.jpg",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70077_2_yankee_large.jpg"
+    },
+    {
+      "name": "Deluxe-King-Room-City-View-Bathroom",
+      "content_type": null,
+      "date_added": "2019-01-14-104935",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547480979/bibw6li01lrtpecexlzb.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547480979/bibw6li01lrtpecexlzb.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547480979/bibw6li01lrtpecexlzb.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547480979/bibw6li01lrtpecexlzb.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547480979/bibw6li01lrtpecexlzb.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547480979/bibw6li01lrtpecexlzb.jpg",
+      "resource_type": "image",
+      "size": 59943,
+      "caption": "Bathroom",
+      "description": "",
+      "alt": "The marble three fixture bathroom features a pedestal sink, glass enclosed shower, plush bathrobes and towels and Etro bath amenities.",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132145/kurpjhzt1piyykpmkdbi.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132145/large_kurpjhzt1piyykpmkdbi.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132145/medium_kurpjhzt1piyykpmkdbi.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132145/small_kurpjhzt1piyykpmkdbi.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132145/xsmall_kurpjhzt1piyykpmkdbi.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132145/thumb_kurpjhzt1piyykpmkdbi.jpg",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70079_2_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "D1K",
+  "order": 3,
+  "guest_size_max": 2,
+  "size": "350 ft<sup>2</sup>",
+  "room_category": "City View",
+  "ada_room": false,
+  "bed_types": [
+    "bed_type_KNG"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name_localized": {
+    "en": "Park View King Room ",
+    "es": "Park View King Room "
+  },
+  "short_description_localized": {
+    "en": "Featuring three-fixture bathrooms and stunning views of Central Park, our 320 square foot Park View rooms reflect an elegant Manhattan residence. These rooms are situated on floors 12-39.",
+    "es": "Featuring three-fixture bathrooms and stunning views of Central Park, our 320 square foot Park View rooms reflect an elegant Manhattan residence. These rooms are situated on floors 12-39."
+  },
+  "description_localized": {
+    "en": "Featuring three-fixture bathrooms and stunning views of Central Park, our 320 square foot Park View rooms reflect an elegant Manhattan residence. These rooms are situated on floors 12-39.",
+    "es": "Featuring three-fixture bathrooms and stunning views of Central Park, our 320 square foot Park View rooms reflect an elegant Manhattan residence. These rooms are situated on floors 12-39."
+  },
+  "amenities": [
+    "room_amenities1",
+    "room_amenities2",
+    "room_amenities3",
+    "room_amenities4",
+    "room_amenities11",
+    "room_amenities12"
+  ],
+  "images": [
+    {
+      "name": "Park-View-King-Room--Park-View-King-Room",
+      "content_type": null,
+      "date_added": "2019-01-14-105031",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547481035/deokwydwovyvcujcidk8.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547481035/deokwydwovyvcujcidk8.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547481035/deokwydwovyvcujcidk8.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547481035/deokwydwovyvcujcidk8.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547481035/deokwydwovyvcujcidk8.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547481035/deokwydwovyvcujcidk8.jpg",
+      "resource_type": "image",
+      "size": 75963,
+      "caption": "Park View King Room",
+      "description": "Lovely views of Central Park stretch out toward uptown Manhattan.",
+      "alt": "The Park View room is famed for its panoramic views of Central Park and the city.  The room is tastefully designed with a soft color palette contains a king sized bed, chaise and a night stand, Bose Wave Studio radio featuring Bluetooth connectivity and alarm clock. An executive writing desk and chair is located next to the bed.  An armchair with side table, 40” wall mounted TV and console with mini bar is located across the bed.\r\n\r\nThe marble bathroom features a pedestal sink, glass enclosed shower, bathtub, plush bathrobes and towels and luxurious Etro amenities.",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130649/srpj4eojwikxlnp6m0nv.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130649/large_srpj4eojwikxlnp6m0nv.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130649/medium_srpj4eojwikxlnp6m0nv.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130649/small_srpj4eojwikxlnp6m0nv.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130649/xsmall_srpj4eojwikxlnp6m0nv.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130649/thumb_srpj4eojwikxlnp6m0nv.jpg",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45097_4_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "B1K",
+  "order": 6,
+  "guest_size_max": 2,
+  "size": "320 ft<sup>2</sup>",
+  "room_category": "Park View",
+  "ada_room": false,
+  "bed_types": [
+    "bed_type_KNG"
+  ]
+}

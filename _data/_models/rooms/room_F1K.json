@@ -1,0 +1,58 @@
+{
+  "name_localized": {
+    "en": "Superior King Room Interior View",
+    "es": "Superior King Room Interior View"
+  },
+  "short_description_localized": {
+    "en": "Featuring peaceful interior views and elegant three-fixture bathrooms, our 300 square foot Superior Rooms envelop guests in a discreet, peaceful retreat. These rooms are situated on floors 4 to 14.",
+    "es": "Featuring peaceful interior views and elegant three-fixture bathrooms, our 300 square foot Superior Rooms envelop guests in a discreet, peaceful retreat. These rooms are situated on floors 4 to 14."
+  },
+  "description_localized": {
+    "en": "Featuring peaceful interior views and elegant three-fixture bathrooms, our 300 square foot Superior Rooms envelop guests in a discreet, peaceful retreat. These rooms are situated on floors 4 to 14.",
+    "es": "Featuring peaceful interior views and elegant three-fixture bathrooms, our 300 square foot Superior Rooms envelop guests in a discreet, peaceful retreat. These rooms are situated on floors 4 to 14."
+  },
+  "amenities": [
+    "room_amenities1",
+    "room_amenities2",
+    "room_amenities3",
+    "room_amenities4",
+    "room_amenities7"
+  ],
+  "images": [
+    {
+      "name": "Superior-King-Room-Interior-View-Superior-Room",
+      "content_type": null,
+      "date_added": "2019-01-14-104907",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547480951/hmrnnhjygzjdgxbrwljc.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547480951/hmrnnhjygzjdgxbrwljc.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547480951/hmrnnhjygzjdgxbrwljc.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547480951/hmrnnhjygzjdgxbrwljc.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547480951/hmrnnhjygzjdgxbrwljc.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547480951/hmrnnhjygzjdgxbrwljc.jpg",
+      "resource_type": "image",
+      "size": 67336,
+      "caption": "Superior Room",
+      "description": "Elegant design and a spectacularly comfortable bed epitomize the Superior Rooms.",
+      "alt": "Superior Rooms features interior views of the hotel and contains a king sized bed with a nightstand, Bose Wave studio featuring Bluetooth connectivity and alarm clock. An executive writing desk and chair is located on the far side of the room.  An arm chair with side table, 40’ wall mounted TV and console with minibar is located across the bed. The marble bathroom features a pedestal sink, glass enclosed shower, plush bathrobes and towels.",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/tb6uhxxsetnay8cbl7sn.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/large_tb6uhxxsetnay8cbl7sn.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/medium_tb6uhxxsetnay8cbl7sn.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/small_tb6uhxxsetnay8cbl7sn.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/xsmall_tb6uhxxsetnay8cbl7sn.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/thumb_tb6uhxxsetnay8cbl7sn.jpg",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45277_3_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "F1K",
+  "order": 1,
+  "guest_size_max": 2,
+  "size": "300 ft<sup>2</sup>",
+  "room_category": "Classic",
+  "ada_room": false,
+  "bed_types": [
+    "bed_type_KNG"
+  ]
+}

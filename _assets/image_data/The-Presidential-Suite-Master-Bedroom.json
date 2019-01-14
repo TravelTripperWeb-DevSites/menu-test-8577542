@@ -1,16 +1,16 @@
 {
   "name": "The-Presidential-Suite-Master-Bedroom",
   "content_type": null,
-  "date_added": "2019-01-14-100129",
-  "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547478093/h8z0st2bwr9y91u2gmqa.jpg",
-  "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547478093/h8z0st2bwr9y91u2gmqa.jpg",
-  "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547478093/h8z0st2bwr9y91u2gmqa.jpg",
-  "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547478093/h8z0st2bwr9y91u2gmqa.jpg",
-  "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547478093/h8z0st2bwr9y91u2gmqa.jpg",
+  "date_added": "2019-01-14-105405",
+  "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547481249/s6oil7sdpzggmvqktqe0.jpg",
+  "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547481249/s6oil7sdpzggmvqktqe0.jpg",
+  "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547481249/s6oil7sdpzggmvqktqe0.jpg",
+  "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547481249/s6oil7sdpzggmvqktqe0.jpg",
+  "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547481249/s6oil7sdpzggmvqktqe0.jpg",
   "width": 800,
   "height": 600,
   "format": "jpg",
-  "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547478093/h8z0st2bwr9y91u2gmqa.jpg",
+  "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547481249/s6oil7sdpzggmvqktqe0.jpg",
   "resource_type": "image",
   "size": 70103,
   "caption": "Master Bedroom",
@@ -21,5 +21,6 @@
   "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130811/medium_lfm0z9wibfjherr2ocst.jpg",
   "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130811/small_lfm0z9wibfjherr2ocst.jpg",
   "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130811/xsmall_lfm0z9wibfjherr2ocst.jpg",
-  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130811/thumb_lfm0z9wibfjherr2ocst.jpg"
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130811/thumb_lfm0z9wibfjherr2ocst.jpg",
+  "original_url": "https://d31f902anbz5po.cloudfront.net/973/70182_2_yankee_large.jpg"
 }

@@ -57,21 +57,21 @@
     {
       "name": "City-View-King-One-Bed-Suite-Manhattan-View-ADA-Living-Room",
       "content_type": null,
-      "date_added": "2019-01-04-160034",
-      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
-      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
-      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
-      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
-      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
+      "date_added": "2019-01-14-094716",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547477240/h5bk4kp06twyjn7byw9l.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547477240/h5bk4kp06twyjn7byw9l.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547477240/h5bk4kp06twyjn7byw9l.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547477240/h5bk4kp06twyjn7byw9l.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547477240/h5bk4kp06twyjn7byw9l.jpg",
       "width": 800,
       "height": 600,
       "format": "jpg",
-      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547477240/h5bk4kp06twyjn7byw9l.jpg",
       "resource_type": "image",
       "size": 72599,
       "caption": "Living Room",
       "description": "",
-      "alt": "Living Room",
+      "alt": "This one-bedroom suite offers captivating views of New York City’s skyline. The suite offers an entry way with double door closet, a well-appointed living room featuring a comfortable sofa and coffee table overlooking the 40” wall mounted TV and console with mini bar. There are 2 side chairs and side table along at the far side of the living room. An executive writing desk and chair completes the room. \r\nThe comfortable bedroom features either a king sized bed or twin beds, an arm chair with side table on the far side of the room.  The twin bed set up has a night stand between both beds with Bose Wave studio radio featuring Bluetooth connectivity and alarm clock.The four fixture Turkish marble-clad bathroom features a pedestal sink, 30 x 60” roll-in shower removable bath seat, soaking tub with oversized shower heads, plush bathrobes, towels and exclusive Etro bath amenities.",
       "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/i3ixipfxvbah5nqkvqks.jpg",
       "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/large_i3ixipfxvbah5nqkvqks.jpg",
       "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/medium_i3ixipfxvbah5nqkvqks.jpg",
@@ -81,5 +81,20 @@
     }
   ],
   "reztrip_room_id": "DSA",
-  "order": 18
+  "order": 18,
+  "amenities": [
+    "room_amenities2",
+    "room_amenities2",
+    "room_amenities2",
+    "room_amenities2",
+    "room_amenities3",
+    "room_amenities3"
+  ],
+  "guest_size_max": 3,
+  "size": "800 ft<sup>2</sup>",
+  "room_category": "City View",
+  "ada_room": false,
+  "bed_types": [
+    "room_bed_types1"
+  ]
 }

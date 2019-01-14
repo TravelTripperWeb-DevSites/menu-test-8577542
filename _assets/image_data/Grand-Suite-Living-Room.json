@@ -1,18 +1,18 @@
 {
   "name": "Grand-Suite-Living-Room",
   "content_type": null,
-  "date_added": "2019-01-14-111024",
-  "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547482227/m8olltxyxjvvnlnccnuz.jpg",
-  "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547482227/m8olltxyxjvvnlnccnuz.jpg",
-  "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547482227/m8olltxyxjvvnlnccnuz.jpg",
-  "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547482227/m8olltxyxjvvnlnccnuz.jpg",
-  "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547482227/m8olltxyxjvvnlnccnuz.jpg",
+  "date_added": "2019-01-14-112241",
+  "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547482964/dpy8zjrefdxkepimeua3.jpg",
+  "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547482964/dpy8zjrefdxkepimeua3.jpg",
+  "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547482964/dpy8zjrefdxkepimeua3.jpg",
+  "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547482964/dpy8zjrefdxkepimeua3.jpg",
+  "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547482964/dpy8zjrefdxkepimeua3.jpg",
   "width": 800,
   "height": 600,
   "format": "jpg",
-  "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547482227/m8olltxyxjvvnlnccnuz.jpg",
+  "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547482964/dpy8zjrefdxkepimeua3.jpg",
   "resource_type": "image",
-  "size": 73797,
+  "size": 74718,
   "caption": "Living Room",
   "description": "",
   "alt": "An entry foyer complements the regal living / dining room. A comfortable sofa, two side tables, coffee table, exquisitely upholstered arm chairs, and ottomans adorn the grand suite.  A dining table that seats four to six guests, an executive desk with chair, a wall mounted 40” TV hangs over the vanity fireplace with console and mini bar forms part of the suite.",
@@ -22,5 +22,5 @@
   "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-131052/small_lnsewnkm62jv52jr1qdh.jpg",
   "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-131052/xsmall_lnsewnkm62jv52jr1qdh.jpg",
   "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-131052/thumb_lnsewnkm62jv52jr1qdh.jpg",
-  "original_url": "https://d31f902anbz5po.cloudfront.net/973/78910_1_yankee_large.jpg"
+  "original_url": "https://d31f902anbz5po.cloudfront.net/973/240137_1_yankee_large.jpg"
 }

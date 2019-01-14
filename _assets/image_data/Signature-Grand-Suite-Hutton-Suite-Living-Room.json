@@ -1,16 +1,16 @@
 {
   "name": "Signature-Grand-Suite-Hutton-Suite-Living-Room",
   "content_type": null,
-  "date_added": "2019-01-14-100110",
-  "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547478074/c1xy63u0qlsxdxrb1qaf.jpg",
-  "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547478074/c1xy63u0qlsxdxrb1qaf.jpg",
-  "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547478074/c1xy63u0qlsxdxrb1qaf.jpg",
-  "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547478074/c1xy63u0qlsxdxrb1qaf.jpg",
-  "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547478074/c1xy63u0qlsxdxrb1qaf.jpg",
+  "date_added": "2019-01-14-105307",
+  "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547481190/fdzh0wlphalcug2vcc2g.jpg",
+  "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547481190/fdzh0wlphalcug2vcc2g.jpg",
+  "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547481190/fdzh0wlphalcug2vcc2g.jpg",
+  "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547481190/fdzh0wlphalcug2vcc2g.jpg",
+  "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547481190/fdzh0wlphalcug2vcc2g.jpg",
   "width": 800,
   "height": 600,
   "format": "jpg",
-  "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547478074/c1xy63u0qlsxdxrb1qaf.jpg",
+  "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547481190/fdzh0wlphalcug2vcc2g.jpg",
   "resource_type": "image",
   "size": 84797,
   "caption": "Hutton Suite Living Room",
@@ -21,5 +21,6 @@
   "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130849/medium_wwveft8qnxs3ycmdqijq.jpg",
   "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130849/small_wwveft8qnxs3ycmdqijq.jpg",
   "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130849/xsmall_wwveft8qnxs3ycmdqijq.jpg",
-  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130849/thumb_wwveft8qnxs3ycmdqijq.jpg"
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130849/thumb_wwveft8qnxs3ycmdqijq.jpg",
+  "original_url": "https://d31f902anbz5po.cloudfront.net/973/73649_2_yankee_large.jpg"
 }

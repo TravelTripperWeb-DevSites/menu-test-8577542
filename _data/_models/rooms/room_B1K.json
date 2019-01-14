@@ -44,7 +44,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130649/small_srpj4eojwikxlnp6m0nv.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130649/xsmall_srpj4eojwikxlnp6m0nv.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130649/thumb_srpj4eojwikxlnp6m0nv.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45097_4_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45097_4_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Park-View-King-Room--Park-View-King-Room.json"
     }
   ],
   "reztrip_room_id": "B1K",

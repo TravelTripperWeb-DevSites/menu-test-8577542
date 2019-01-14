@@ -53,7 +53,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130743/small_cagfgpdoich1rnburuqq.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130743/xsmall_cagfgpdoich1rnburuqq.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130743/thumb_cagfgpdoich1rnburuqq.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/49901_5_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/49901_5_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Signature-Grand-Suite-Charles-Pierre-Suite.json"
     },
     {
       "name": "Signature-Grand-Suite-Charles-Pierre-Suite-Living-Room",
@@ -79,7 +80,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130744/small_lyy9pngbj7cl3pvgeqvq.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130744/xsmall_lyy9pngbj7cl3pvgeqvq.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130744/thumb_lyy9pngbj7cl3pvgeqvq.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/49902_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/49902_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Signature-Grand-Suite-Charles-Pierre-Suite-Living-Room.json"
     },
     {
       "name": "Signature-Grand-Suite-Charles-Pierre-Dining-Room",
@@ -105,7 +107,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130832/small_egvyuowoheewobyaiwa0.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130832/xsmall_egvyuowoheewobyaiwa0.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130832/thumb_egvyuowoheewobyaiwa0.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/49903_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/49903_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Signature-Grand-Suite-Charles-Pierre-Dining-Room.json"
     },
     {
       "name": "Signature-Grand-Suite-Charles-Pierre-Master-Bedroom",
@@ -131,7 +134,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130750/small_me8steyn9asvgl2pzv8o.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130750/xsmall_me8steyn9asvgl2pzv8o.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130750/thumb_me8steyn9asvgl2pzv8o.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73458_3_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73458_3_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Signature-Grand-Suite-Charles-Pierre-Master-Bedroom.json"
     },
     {
       "name": "Signature-Grand-Suite-Getty-Suite-Living-Room",
@@ -157,7 +161,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130751/small_dhs6cvkt5yydzlfrwwtd.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130751/xsmall_dhs6cvkt5yydzlfrwwtd.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130751/thumb_dhs6cvkt5yydzlfrwwtd.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73459_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73459_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Signature-Grand-Suite-Getty-Suite-Living-Room.json"
     },
     {
       "name": "Signature-Grand-Suite-Hutton-Suite-Master-Bedroom",
@@ -183,7 +188,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130752/small_tefnkl4duqxxzmy0h8sr.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130752/xsmall_tefnkl4duqxxzmy0h8sr.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130752/thumb_tefnkl4duqxxzmy0h8sr.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73460_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73460_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Signature-Grand-Suite-Hutton-Suite-Master-Bedroom.json"
     },
     {
       "name": "Signature-Grand-Suite-Hutton-Suite-Living-Room",
@@ -209,7 +215,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130849/small_wwveft8qnxs3ycmdqijq.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130849/xsmall_wwveft8qnxs3ycmdqijq.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130849/thumb_wwveft8qnxs3ycmdqijq.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73649_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73649_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Signature-Grand-Suite-Hutton-Suite-Living-Room.json"
     },
     {
       "name": "Signature-Grand-Suite-Park-Suite-Living-Room",
@@ -235,7 +242,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130756/small_qgzjkordfskqlblg7z7q.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130756/xsmall_qgzjkordfskqlblg7z7q.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130756/thumb_qgzjkordfskqlblg7z7q.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73461_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73461_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Signature-Grand-Suite-Park-Suite-Living-Room.json"
     },
     {
       "name": "Signature-Grand-Suite-Park-Suite-Bedroom",
@@ -261,7 +269,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130835/small_uilggiwkkydwu7cmh2qk.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130835/xsmall_uilggiwkkydwu7cmh2qk.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130835/thumb_uilggiwkkydwu7cmh2qk.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73648_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73648_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Signature-Grand-Suite-Park-Suite-Bedroom.json"
     }
   ],
   "reztrip_room_id": "ABS",

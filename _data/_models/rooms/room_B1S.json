@@ -45,7 +45,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130825/small_aaeiodoggxggmthonbzj.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130825/xsmall_aaeiodoggxggmthonbzj.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130825/thumb_aaeiodoggxggmthonbzj.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50108_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50108_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Premier-King-One-Bedroom-Suite-Manhattan-View-Living-Room.json"
     },
     {
       "name": "Premier-King-One-Bedroom-Suite-Manhattan-View-Bedroom",
@@ -71,7 +72,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130708/small_etknom9iqhmidjchkjwk.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130708/xsmall_etknom9iqhmidjchkjwk.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130708/thumb_etknom9iqhmidjchkjwk.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50127_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50127_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Premier-King-One-Bedroom-Suite-Manhattan-View-Bedroom.json"
     },
     {
       "name": "Premier-King-One-Bedroom-Suite-Manhattan-View-",
@@ -97,7 +99,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130710/small_ncktk8fmwfsmueq9kkn9.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130710/xsmall_ncktk8fmwfsmueq9kkn9.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130710/thumb_ncktk8fmwfsmueq9kkn9.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50128_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50128_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Premier-King-One-Bedroom-Suite-Manhattan-View-.json"
     },
     {
       "name": "Premier-King-One-Bedroom-Suite-Manhattan-View-Premier-Suite-View",
@@ -123,7 +126,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130827/small_vaj3bo7g21tjuim7gios.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130827/xsmall_vaj3bo7g21tjuim7gios.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130827/thumb_vaj3bo7g21tjuim7gios.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70075_3_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70075_3_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Premier-King-One-Bedroom-Suite-Manhattan-View-Premier-Suite-View.json"
     }
   ],
   "reztrip_room_id": "B1S",

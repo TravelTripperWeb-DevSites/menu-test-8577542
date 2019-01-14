@@ -43,7 +43,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/small_tb6uhxxsetnay8cbl7sn.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/xsmall_tb6uhxxsetnay8cbl7sn.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/thumb_tb6uhxxsetnay8cbl7sn.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45277_3_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45277_3_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Superior-King-Room-Interior-View-Superior-Room.json"
     }
   ],
   "reztrip_room_id": "F1K",

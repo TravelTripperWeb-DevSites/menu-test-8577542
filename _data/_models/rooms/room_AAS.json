@@ -50,7 +50,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130800/small_urswtb2w1b8ec2gtdlcf.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130800/xsmall_urswtb2w1b8ec2gtdlcf.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130800/thumb_urswtb2w1b8ec2gtdlcf.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/69922_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/69922_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/The-Presidential-Suite-Presidential-Suite-Living-Room.json"
     },
     {
       "name": "The-Presidential-Suite-Dining-Room",
@@ -76,7 +77,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130804/small_lykw1ss7kvftpcilx7ar.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130804/xsmall_lykw1ss7kvftpcilx7ar.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130804/thumb_lykw1ss7kvftpcilx7ar.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70179_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70179_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/The-Presidential-Suite-Dining-Room.json"
     },
     {
       "name": "The-Presidential-Suite-Bedroom",
@@ -102,7 +104,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130805/small_mtexlnob5ld3ofwldsnx.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130805/xsmall_mtexlnob5ld3ofwldsnx.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130805/thumb_mtexlnob5ld3ofwldsnx.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/69924_3_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/69924_3_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/The-Presidential-Suite-Bedroom.json"
     },
     {
       "name": "The-Presidential-Suite-Unrivalled-Views",
@@ -128,7 +131,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130806/small_jw5eslkemcu6rtbdkm38.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130806/xsmall_jw5eslkemcu6rtbdkm38.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130806/thumb_jw5eslkemcu6rtbdkm38.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70180_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70180_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/The-Presidential-Suite-Unrivalled-Views.json"
     },
     {
       "name": "The-Presidential-Suite-Master-Bathroom",
@@ -154,7 +158,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130859/small_eo6gws7pru0pi47kfngj.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130859/xsmall_eo6gws7pru0pi47kfngj.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130859/thumb_eo6gws7pru0pi47kfngj.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70181_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70181_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/The-Presidential-Suite-Master-Bathroom.json"
     },
     {
       "name": "The-Presidential-Suite-Master-Bedroom",
@@ -180,7 +185,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130811/small_lfm0z9wibfjherr2ocst.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130811/xsmall_lfm0z9wibfjherr2ocst.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130811/thumb_lfm0z9wibfjherr2ocst.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70182_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70182_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/The-Presidential-Suite-Master-Bedroom.json"
     }
   ],
   "reztrip_room_id": "AAS",

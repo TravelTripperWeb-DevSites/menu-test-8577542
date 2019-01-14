@@ -44,7 +44,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132146/small_m5ircnpuawupzbsz4tgp.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132146/xsmall_m5ircnpuawupzbsz4tgp.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132146/thumb_m5ircnpuawupzbsz4tgp.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50105_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50105_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/City-View-King-Room-City-View-Room.json"
     },
     {
       "name": "City-View-King-Room-Bathroom",
@@ -70,7 +71,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132149/small_eeocpkh9ptkmfgi5iwrp.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132149/xsmall_eeocpkh9ptkmfgi5iwrp.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132149/thumb_eeocpkh9ptkmfgi5iwrp.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70081_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70081_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/City-View-King-Room-Bathroom.json"
     }
   ],
   "reztrip_room_id": "C1K",

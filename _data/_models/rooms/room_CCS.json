@@ -44,7 +44,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130819/small_eygzhbpzujfwe9ra0dla.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130819/xsmall_eygzhbpzujfwe9ra0dla.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130819/thumb_eygzhbpzujfwe9ra0dla.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/246185_1_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/246185_1_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/City-View-Two-Bedroom-Suites-Master-Bedroom.json"
     },
     {
       "name": "City-View-Two-Bedroom-Suites-Living-Room",
@@ -70,7 +71,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130903/small_zkoxjcsm9qnwguf9wx95.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130903/xsmall_zkoxjcsm9qnwguf9wx95.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130903/thumb_zkoxjcsm9qnwguf9wx95.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/246186_1_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/246186_1_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/City-View-Two-Bedroom-Suites-Living-Room.json"
     },
     {
       "name": "City-View-Two-Bedroom-Suites-Second-Bedroom",
@@ -96,7 +98,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130822/small_lbeyn5i33yjawzkv7fwq.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130822/xsmall_lbeyn5i33yjawzkv7fwq.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130822/thumb_lbeyn5i33yjawzkv7fwq.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/246187_1_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/246187_1_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/City-View-Two-Bedroom-Suites-Second-Bedroom.json"
     }
   ],
   "reztrip_room_id": "CCS",

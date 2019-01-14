@@ -52,7 +52,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130733/small_rwtyrlrebdevbe7hx0sf.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130733/xsmall_rwtyrlrebdevbe7hx0sf.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130733/thumb_rwtyrlrebdevbe7hx0sf.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/240762_1_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/240762_1_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Two-Bedroom-Deluxe-Grand-Suite-Living-Room.json"
     },
     {
       "name": "Two-Bedroom-Deluxe-Grand-Suite-Foyer",
@@ -78,7 +79,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130829/small_cr2irnbjiixhruxlnsdz.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130829/xsmall_cr2irnbjiixhruxlnsdz.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130829/thumb_cr2irnbjiixhruxlnsdz.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/240763_1_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/240763_1_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Two-Bedroom-Deluxe-Grand-Suite-Foyer.json"
     },
     {
       "name": "Two-Bedroom-Deluxe-Grand-Suite-Dining-Area",
@@ -104,7 +106,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130837/small_aliwq23k3h1mhtlmzdw3.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130837/xsmall_aliwq23k3h1mhtlmzdw3.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130837/thumb_aliwq23k3h1mhtlmzdw3.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/240764_1_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/240764_1_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Two-Bedroom-Deluxe-Grand-Suite-Dining-Area.json"
     }
   ],
   "reztrip_room_id": "B2S",

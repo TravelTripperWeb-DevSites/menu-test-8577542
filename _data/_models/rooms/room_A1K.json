@@ -43,7 +43,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130928/small_oamgkdnpjyy122zxvvdp.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130928/xsmall_oamgkdnpjyy122zxvvdp.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130928/thumb_oamgkdnpjyy122zxvvdp.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45100_5_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45100_5_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Signature-King-Room-Park-View-Signature-King-Room-Park-View.json"
     }
   ],
   "reztrip_room_id": "A1K",

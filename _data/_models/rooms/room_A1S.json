@@ -44,7 +44,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130714/small_xsskyqud0qzn2yrt645a.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130714/xsmall_xsskyqud0qzn2yrt645a.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130714/thumb_xsskyqud0qzn2yrt645a.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/59771_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/59771_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Metropolitan-Suite-Metropolitan-Suite.json"
     }
   ],
   "reztrip_room_id": "A1S",

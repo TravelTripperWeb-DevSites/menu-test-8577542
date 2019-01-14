@@ -42,7 +42,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132151/small_r1bzd2tqg02myrlvnuy4.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132151/xsmall_r1bzd2tqg02myrlvnuy4.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132151/thumb_r1bzd2tqg02myrlvnuy4.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50106_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50106_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/City-View-Room-2-Twin-Beds-City-View-2-Twins.json"
     },
     {
       "name": "City-View-Room-2-Twin-Beds-Four-Fixture-Bathroom",
@@ -68,7 +69,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132151/small_mdc50qmgrhfdysaikoji.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132151/xsmall_mdc50qmgrhfdysaikoji.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132151/thumb_mdc50qmgrhfdysaikoji.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73155_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/73155_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/City-View-Room-2-Twin-Beds-Four-Fixture-Bathroom.json"
     }
   ],
   "reztrip_room_id": "C2T",

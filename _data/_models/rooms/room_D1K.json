@@ -43,7 +43,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132141/small_f4ffpnbjch9jlsvhxm0k.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132141/xsmall_f4ffpnbjch9jlsvhxm0k.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132141/thumb_f4ffpnbjch9jlsvhxm0k.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45090_6_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45090_6_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Deluxe-King-Room-City-View-Deluxe-Room.json"
     },
     {
       "name": "Deluxe-King-Room-City-View-Bedroom",
@@ -69,7 +70,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132143/small_ibutx3bkbv9tsz55c6ze.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132143/xsmall_ibutx3bkbv9tsz55c6ze.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132143/thumb_ibutx3bkbv9tsz55c6ze.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70077_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70077_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Deluxe-King-Room-City-View-Bedroom.json"
     },
     {
       "name": "Deluxe-King-Room-City-View-Bathroom",
@@ -95,7 +97,8 @@
       "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132145/small_kurpjhzt1piyykpmkdbi.jpg",
       "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132145/xsmall_kurpjhzt1piyykpmkdbi.jpg",
       "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132145/thumb_kurpjhzt1piyykpmkdbi.jpg",
-      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70079_2_yankee_large.jpg"
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/70079_2_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Deluxe-King-Room-City-View-Bathroom.json"
     }
   ],
   "reztrip_room_id": "D1K",

@@ -24,12 +24,12 @@
     ],
     "en": [
       {
-        "label": "One",
-        "description": "<p>One</p>"
-      },
-      {
         "label": "Two",
         "description": "<p>Two</p>"
+      },
+      {
+        "label": "One",
+        "description": "<p>One</p>"
       }
     ],
     "es": [

@@ -34,12 +34,16 @@
     ],
     "es": [
       {
-        "label": "Uno",
-        "description": "<p>Uno</p>"
-      },
-      {
         "label": "Dos",
         "description": "<p>Dos</p>"
+      },
+      {
+        "label": "Uno",
+        "description": "<p>Uno!</p>"
+      },
+      {
+        "label": "Tres",
+        "description": "<p>3</p>"
       }
     ]
   }

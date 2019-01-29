@@ -5,6 +5,7 @@
   "items": {
     "type": "nested",
     "localizabled": true,
+    "multiple": true,
     "fields": {
       "label": {},
       "description": {

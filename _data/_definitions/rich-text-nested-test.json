@@ -1,0 +1,15 @@
+{
+  "name": {
+    "required": "true"
+  },
+  "items": {
+    "type": "nested",
+    "localizabled": true,
+    "fields": {
+      "label": {},
+      "description": {
+        "type": "rich_text"
+      }
+    }
+  }
+}

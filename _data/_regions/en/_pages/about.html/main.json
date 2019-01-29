@@ -1,0 +1,129 @@
+[
+  {
+    "_template": "gallery",
+    "galleries": [
+      {
+        "label": "One",
+        "gallery": "gallery_b"
+      }
+    ]
+  },
+  {
+    "_template": "html",
+    "content": "<p>Test 2</p>"
+  },
+  {
+    "_template": "hero_slider",
+    "style": "",
+    "slides": [
+      {
+        "title": "Test",
+        "sub_title": "test",
+        "image": {
+          "name": "City-View-King-One-Bed-Suite-Manhattan-View-ADA-Living-Room",
+          "content_type": null,
+          "date_added": "2019-01-04-160034",
+          "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
+          "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
+          "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
+          "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
+          "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
+          "width": 800,
+          "height": 600,
+          "format": "jpg",
+          "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
+          "resource_type": "image",
+          "size": 72599,
+          "caption": "",
+          "description": "",
+          "alt": "Living Room",
+          "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/i3ixipfxvbah5nqkvqks.jpg",
+          "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/large_i3ixipfxvbah5nqkvqks.jpg",
+          "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/medium_i3ixipfxvbah5nqkvqks.jpg",
+          "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/small_i3ixipfxvbah5nqkvqks.jpg",
+          "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/xsmall_i3ixipfxvbah5nqkvqks.jpg",
+          "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/thumb_i3ixipfxvbah5nqkvqks.jpg",
+          "git_file_name": "_assets/image_data/City-View-King-One-Bed-Suite-Manhattan-View-ADA-Living-Room.json",
+          "path": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546635634/plvckyl6fxd4rkxtyixs.jpg",
+          "file_size": null
+        }
+      }
+    ]
+  },
+  {
+    "_template": "slider",
+    "slides": [
+      {
+        "title": "Second Slide",
+        "sub_title": "Test 2!",
+        "image": {
+          "name": "Signature-Grand-Suite-Charles-Pierre-Suite-Living-Room",
+          "content_type": null,
+          "date_added": "2019-01-04-145306",
+          "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546631586/yjhsx38b1pnwv4ndtupp.jpg",
+          "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546631586/yjhsx38b1pnwv4ndtupp.jpg",
+          "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546631586/yjhsx38b1pnwv4ndtupp.jpg",
+          "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546631586/yjhsx38b1pnwv4ndtupp.jpg",
+          "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546631586/yjhsx38b1pnwv4ndtupp.jpg",
+          "width": 800,
+          "height": 600,
+          "format": "jpg",
+          "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546631586/yjhsx38b1pnwv4ndtupp.jpg",
+          "resource_type": "image",
+          "size": 69270,
+          "caption": "",
+          "description": "",
+          "alt": "Charles Pierre Suite Living Room",
+          "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130744/lyy9pngbj7cl3pvgeqvq.jpg",
+          "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130744/large_lyy9pngbj7cl3pvgeqvq.jpg",
+          "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130744/medium_lyy9pngbj7cl3pvgeqvq.jpg",
+          "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130744/small_lyy9pngbj7cl3pvgeqvq.jpg",
+          "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130744/xsmall_lyy9pngbj7cl3pvgeqvq.jpg",
+          "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130744/thumb_lyy9pngbj7cl3pvgeqvq.jpg",
+          "git_file_name": "_assets/image_data/Signature-Grand-Suite-Charles-Pierre-Suite-Living-Room.json",
+          "path": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546631586/yjhsx38b1pnwv4ndtupp.jpg",
+          "file_size": null
+        }
+      },
+      {
+        "title": "First Slide",
+        "sub_title": "Test",
+        "image": {
+          "name": "Superior-King-Room-Interior-View-Superior-Room",
+          "content_type": null,
+          "date_added": "2019-01-04-145217",
+          "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1546631538/kfoh26jthxyol9imdgzo.jpg",
+          "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1546631538/kfoh26jthxyol9imdgzo.jpg",
+          "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1546631538/kfoh26jthxyol9imdgzo.jpg",
+          "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1546631538/kfoh26jthxyol9imdgzo.jpg",
+          "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1546631538/kfoh26jthxyol9imdgzo.jpg",
+          "width": 800,
+          "height": 600,
+          "format": "jpg",
+          "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546631538/kfoh26jthxyol9imdgzo.jpg",
+          "resource_type": "image",
+          "size": 67336,
+          "caption": "",
+          "description": "",
+          "alt": "Superior Room",
+          "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/tb6uhxxsetnay8cbl7sn.jpg",
+          "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/large_tb6uhxxsetnay8cbl7sn.jpg",
+          "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/medium_tb6uhxxsetnay8cbl7sn.jpg",
+          "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/small_tb6uhxxsetnay8cbl7sn.jpg",
+          "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/xsmall_tb6uhxxsetnay8cbl7sn.jpg",
+          "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-132227/thumb_tb6uhxxsetnay8cbl7sn.jpg",
+          "git_file_name": "_assets/image_data/Superior-King-Room-Interior-View-Superior-Room.json",
+          "path": "https://res.cloudinary.com/traveltripperweb/image/upload/v1546631538/kfoh26jthxyol9imdgzo.jpg",
+          "file_size": null
+        }
+      }
+    ],
+    "nav": true,
+    "autoplay_button_output": true,
+    "controls": true
+  },
+  {
+    "_template": "html",
+    "content": "<p>New HTML Content</p>\n<p>Lets get some&nbsp;breathing room!</p>"
+  }
+]

@@ -1,7 +1,46 @@
 {
-  "items": {
-    "label": "Test",
-    "description": "<p>Abcdef</p>"
-  },
-  "name": "Test"
+  "name": "Test",
+  "items_localized": {
+    "label": [
+      "T",
+      "e",
+      "s",
+      "t"
+    ],
+    "description": [
+      "<",
+      "p",
+      ">",
+      "A",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "<",
+      "/",
+      "p",
+      ">"
+    ],
+    "en": [
+      {
+        "label": "One",
+        "description": "<p>One</p>"
+      },
+      {
+        "label": "Two",
+        "description": "<p>Two</p>"
+      }
+    ],
+    "es": [
+      {
+        "label": "Uno",
+        "description": "<p>Uno</p>"
+      },
+      {
+        "label": "Dos",
+        "description": "<p>Dos</p>"
+      }
+    ]
+  }
 }

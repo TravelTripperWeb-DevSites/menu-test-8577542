@@ -1,5 +1,11 @@
 [
   {
-    "_template": "page_list"
+    "_template": "page_list",
+    "pages": [
+      "_pages/about.html",
+      "_pages/dining.html",
+      "_pages/rooms.html",
+      "_pages/gallery.html"
+    ]
   }
 ]

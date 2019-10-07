@@ -1,3 +1,98 @@
 ---
+title: Hotel @ Times Square
+title_separator: "|"
+name: Hotel @ Times Square
+description: Enjoy Manhattan to the fullest at the Hotel @ Times Square. Located near Times Square, we offer comfortable accommodations in an ideal location.
+url: https://www.hotelattimessquare.com/
+repository: 
+default_lang: en
 languages:
 - en
+include:
+- _ttio_templates
+- _pages
+exclude:
+- _ttio_templates/zom
+- _ttio_templates/bedrock/assets
+- _ttio_templates/bedrock/node_modules
+- _ttio_templates/bedrock/*.md
+- _ttio_templates/bedrock/*.json
+- "*.sublime-project"
+- "*.sublime-workspace"
+- ".asset-cache"
+- ".bundle"
+- ".jekyll-assets-cache"
+- ".sass-cache"
+- Capfile
+- CHANGELOG
+- config
+- Gemfile
+- Gruntfile.js
+- gulpfile.js
+- LICENSE
+- log
+- Makefile
+- media.json
+- models.json
+- node_modules
+- old_media.json
+- package.json
+- package-lock.json
+- Rakefile
+- README
+- sitemap.json
+- tmp
+- vendor
+keep_files:
+- ".git"
+- assets
+- ttio_templates/bedrock/assets
+- ttio_templates/zom/assets
+rsync_copy:
+- _assets
+- _ttio_templates/bedrock/assets
+- _ttio_templates/zom/assets
+encoding: utf-8
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+markdown: kramdown
+excerpt_separator: "\n\n"
+incremental: false
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+sass:
+  load_paths:
+  - _sass
+  style: compressed
+permalink: pretty
+timezone: 
+page_gen:
+- data: offers
+  template: offer_layout
+  dir: offers
+  title_field: name
+- data: rooms
+  template: room_layout
+  dir: rooms
+  title_field: name
+plugins_dir:
+- _plugins-38
+- _plugins
+i18n_dir:
+- _ttio_templates/bedrock/_locales
+- _locales
+layouts_dir:
+- _ttio_templates/bedrock/_layouts
+- _layouts
+data_dir:
+- _ttio_templates/bedrock/_data
+- _data
+includes_dir:
+- _includes
+- _ttio_templates/bedrock/_includes

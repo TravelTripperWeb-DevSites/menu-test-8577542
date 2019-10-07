@@ -5,7 +5,8 @@ settings:
     multiple: true
 template: >
   <ul>
-    {% for page in item.pages %}
+    {% for page_id in item.pages %}
+      {% assign page = site.pages[page_id] %}
       <li><a href="{{page | permalink}}">{{page}} {{site.active_lang}}</a></li>
     {% endfor %}
   </ul>

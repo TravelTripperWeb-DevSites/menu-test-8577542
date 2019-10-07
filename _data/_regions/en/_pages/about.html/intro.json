@@ -1,5 +1,13 @@
 [
   {
-    "_template": "page_list"
+    "_template": "page_list",
+    "pages": [
+      {
+        "selected_page": "_pages/location.html"
+      },
+      {
+        "selected_page": "_pages/about.html"
+      }
+    ]
   }
 ]

@@ -6,6 +6,6 @@ settings:
 template: >
   <ul>
     {% for page in item.pages %}
-      <li><a href="{{page | permalink}}">{{page.title}}</a></li>
+      <li><a href="{{page | permalink}}">{{page.title_localized.en}} {{site.active_lang}}</a></li>
     {% endfor %}
   </ul>

@@ -1,0 +1,21 @@
+name: Page List
+settings:
+  pages:
+    type: nested
+    fields:
+      selected_page:
+        type: page
+    multiple: true
+template: >
+  <ul>
+    {% for page_selection in item.pages %}
+      {% assign page_id = page_selection.selected_page %}
+      {% assign page = '' %}
+      {% for p in site.pages %}
+        {% if p.path == page_id %}
+          {% assign page = p %}
+        {% endif %}
+      {% endfor %}
+      <li><a href="{{page_id | permalink}}">{{page.title}}</a></li>
+    {% endfor %}
+  </ul>

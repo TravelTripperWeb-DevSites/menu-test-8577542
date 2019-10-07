@@ -16,6 +16,6 @@ template: >
           {% assign page = p %}
         {% endif %}
       {% endfor %}
-      <li><a href="{{page | permalink}}">{{page.title}}</a></li>
+      <li><a href="{{page_id | permalink}}">{{page.title}}</a></li>
     {% endfor %}
   </ul>

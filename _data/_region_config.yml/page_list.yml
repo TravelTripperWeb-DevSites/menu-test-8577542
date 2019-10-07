@@ -6,7 +6,12 @@ settings:
 template: >
   <ul>
     {% for page_id in item.pages %}
-      {% assign page = site.pages[page_id] %}
+      {% assign page = '' %}
+      {% for p in site.pages %}
+        {% if p.path == page_id %}
+          {% assign page = p %}
+        {% endif %}
+      {% endfor %}
       <li><a href="{{page | permalink}}">{{page}} {{site.active_lang}}</a></li>
     {% endfor %}
   </ul>

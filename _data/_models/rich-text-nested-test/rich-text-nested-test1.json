@@ -1,0 +1,50 @@
+{
+  "name": "Test",
+  "items_localized": {
+    "label": [
+      "T",
+      "e",
+      "s",
+      "t"
+    ],
+    "description": [
+      "<",
+      "p",
+      ">",
+      "A",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "<",
+      "/",
+      "p",
+      ">"
+    ],
+    "en": [
+      {
+        "label": "One",
+        "description": "<p>One</p>"
+      },
+      {
+        "label": "Two",
+        "description": "<p>Two</p>"
+      }
+    ],
+    "es": [
+      {
+        "label": "Dos",
+        "description": "<p>Dos</p>"
+      },
+      {
+        "label": "Uno",
+        "description": "<p>Uno!</p>"
+      },
+      {
+        "label": "Tres",
+        "description": "<p>3</p>"
+      }
+    ]
+  }
+}

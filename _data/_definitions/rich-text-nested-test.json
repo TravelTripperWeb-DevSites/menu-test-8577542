@@ -4,7 +4,8 @@
   },
   "items": {
     "type": "nested",
-    "localizabled": true,
+    "localizable": true,
+    "multiple": true,
     "fields": {
       "label": {},
       "description": {

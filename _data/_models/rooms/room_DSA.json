@@ -1,0 +1,60 @@
+{
+  "name_localized": {
+    "en": "City View King One Bed Suite Manhattan View ADA",
+    "es": "City View King One Bed Suite Manhattan View ADA"
+  },
+  "short_description_localized": {
+    "en": "Featuring four-fixture bathrooms and beautiful Manhattan views, our 800 square foot City View King One Bedroom Suites offer quintessential Manhattan charm and are situated on floors 14 to 21.  ",
+    "es": "Featuring four-fixture bathrooms and beautiful Manhattan views, our 800 square foot City View King One Bedroom Suites offer quintessential Manhattan charm and are situated on floors 14 to 21.  "
+  },
+  "description_localized": {
+    "en": "Featuring four-fixture bathrooms and beautiful Manhattan views, our 800 square foot City View King One Bedroom Suites offer quintessential Manhattan charm. City View Suites are situated on floors 14 to 21.  ",
+    "es": "Featuring four-fixture bathrooms and beautiful Manhattan views, our 800 square foot City View King One Bedroom Suites offer quintessential Manhattan charm. City View Suites are situated on floors 14 to 21.  "
+  },
+  "amenities": [
+    "room_amenities1",
+    "room_amenities2",
+    "room_amenities3",
+    "room_amenities4",
+    "room_amenities5",
+    "room_amenities6"
+  ],
+  "images": [
+    {
+      "name": "City-View-King-One-Bed-Suite-Manhattan-View-ADA-Living-Room",
+      "content_type": null,
+      "date_added": "2019-01-14-104335",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547480619/jiwizimvrr8mmeu1irlc.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547480619/jiwizimvrr8mmeu1irlc.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547480619/jiwizimvrr8mmeu1irlc.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547480619/jiwizimvrr8mmeu1irlc.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547480619/jiwizimvrr8mmeu1irlc.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547480619/jiwizimvrr8mmeu1irlc.jpg",
+      "resource_type": "image",
+      "size": 72599,
+      "caption": "Living Room",
+      "description": "",
+      "alt": "This one-bedroom suite offers captivating views of New York City’s skyline. The suite offers an entry way with double door closet, a well-appointed living room featuring a comfortable sofa and coffee table overlooking the 40” wall mounted TV and console with mini bar. There are 2 side chairs and side table along at the far side of the living room. An executive writing desk and chair completes the room. \r\nThe comfortable bedroom features either a king sized bed or twin beds, an arm chair with side table on the far side of the room.  The twin bed set up has a night stand between both beds with Bose Wave studio radio featuring Bluetooth connectivity and alarm clock.The four fixture Turkish marble-clad bathroom features a pedestal sink, 30 x 60” roll-in shower removable bath seat, soaking tub with oversized shower heads, plush bathrobes, towels and exclusive Etro bath amenities.",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/i3ixipfxvbah5nqkvqks.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/large_i3ixipfxvbah5nqkvqks.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/medium_i3ixipfxvbah5nqkvqks.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/small_i3ixipfxvbah5nqkvqks.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/xsmall_i3ixipfxvbah5nqkvqks.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130818/thumb_i3ixipfxvbah5nqkvqks.jpg",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/50110_4_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/City-View-King-One-Bed-Suite-Manhattan-View-ADA-Living-Room.json"
+    }
+  ],
+  "reztrip_room_id": "DSA",
+  "order": 18,
+  "guest_size_max": 3,
+  "size": "800 ft<sup>2</sup>",
+  "room_category": "City View",
+  "ada_room": false,
+  "bed_types": [
+    "bed_type_KNG"
+  ]
+}

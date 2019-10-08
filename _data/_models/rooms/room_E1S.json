@@ -1,0 +1,61 @@
+{
+  "name_localized": {
+    "en": "Executive King One Bedroom Suite Interior View ",
+    "es": "Executive King One Bedroom Suite Interior View "
+  },
+  "short_description_localized": {
+    "en": "Featuring four-fixture bathrooms and peaceful interior views, our 700 square foot  Executive One Bedroom Suites offer comfortably spacious accommodations and are situated on floors 4 to 9.",
+    "es": "Featuring four-fixture bathrooms and peaceful interior views, our 700 square foot  Executive One Bedroom Suites offer comfortably spacious accommodations and are situated on floors 4 to 9."
+  },
+  "description_localized": {
+    "en": "Featuring four-fixture bathrooms and peaceful interior views, our 700 square foot  Executive One Bedroom Suites offer comfortably spacious accommodations. Executive Suites are situated on floors 4 to 9.",
+    "es": "Featuring four-fixture bathrooms and peaceful interior views, our 700 square foot  Executive One Bedroom Suites offer comfortably spacious accommodations. Executive Suites are situated on floors 4 to 9."
+  },
+  "amenities": [
+    "room_amenities1",
+    "room_amenities2",
+    "room_amenities3",
+    "room_amenities4",
+    "room_amenities7",
+    "room_amenities6"
+  ],
+  "images": [
+    {
+      "name": "Executive-King-One-Bedroom-Suite-Interior-View--Executive-King-One-Bedroom-Suite-Interior-View",
+      "content_type": null,
+      "date_added": "2019-01-14-105040",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1547481044/gzrfdgtfiubbxv7ynnqp.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1547481044/gzrfdgtfiubbxv7ynnqp.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1547481044/gzrfdgtfiubbxv7ynnqp.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1547481044/gzrfdgtfiubbxv7ynnqp.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1547481044/gzrfdgtfiubbxv7ynnqp.jpg",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1547481044/gzrfdgtfiubbxv7ynnqp.jpg",
+      "resource_type": "image",
+      "size": 72599,
+      "caption": "Executive King One Bedroom Suite Interior View",
+      "description": "",
+      "alt": "The Executive Suites are designed in classic Manhattan residential style with high ceilings, and are situated in the interior side of the hotel. The elegantly designed living room features a comfortable sofa and coffee table opposite the 40” wall mounted TV and console with mini bar.  There are 2 side chairs and side table along at the far side of the living room. An executive writing desk and chair completes the room. \r\nThe comfortable bedroom features a king sized bed, an armchair with side table on the far side of the room. The full bathroom, located in the bedroom, features a glass-enclosed shower, soaking tub with oversized showerheads, plush bathrobes, towels and luxurious Etro bath amenities. Most Executive Suites feature a half bathroom near the entrance to the suite. Some feature a kitchenette instead.",
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130651/e3swi2d52oht8vbrwvxz.jpg",
+      "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130651/large_e3swi2d52oht8vbrwvxz.jpg",
+      "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130651/medium_e3swi2d52oht8vbrwvxz.jpg",
+      "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130651/small_e3swi2d52oht8vbrwvxz.jpg",
+      "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130651/xsmall_e3swi2d52oht8vbrwvxz.jpg",
+      "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_20_108/media/2019-01-04-130651/thumb_e3swi2d52oht8vbrwvxz.jpg",
+      "original_url": "https://d31f902anbz5po.cloudfront.net/973/45094_5_yankee_large.jpg",
+      "git_file_name": "_assets/image_data/Executive-King-One-Bedroom-Suite-Interior-View--Executive-King-One-Bedroom-Suite-Interior-View.json"
+    }
+  ],
+  "reztrip_room_id": "E1S",
+  "order": 7,
+  "guest_size_max": 3,
+  "size": "700 ft<sup>2</sup>",
+  "room_category": "Classic",
+  "ada_room": false,
+  "bed_types": [
+    "bed_type_TWN",
+    "bed_type_KNG"
+  ]
+}
